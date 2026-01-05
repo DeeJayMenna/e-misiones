@@ -1,0 +1,187 @@
+/* VARIABLES */
+:root {
+    --bg-color: #f3f4f6;
+    --primary: #2563eb;
+    --text-dark: #333;
+    --sidebar-bg: #ffffff;
+    --card-bg: #ffffff;
+    
+    /* Colores de Marca */
+    --brand-bg: #28666e;
+    --brand-text: #fcfbfa;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: var(--bg-color);
+    margin: 0;
+    color: var(--text-dark);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* HEADER */
+.main-header {
+    background: white;
+    padding: 15px 0; /* Un poco más compacto */
+    text-align: center;
+}
+
+.header-content h1 { 
+    margin: 0; 
+    color: #28666e;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 1.8rem; /* Ajuste visual */
+}
+
+.header-content h1 i { color: #28666e; }
+.fecha-hoy { color: #666; font-weight: 500; margin-top: 5px; text-transform: capitalize; font-size: 0.9rem; }
+
+/* NAVBAR */
+.navbar {
+    background-color: var(--brand-bg);
+    color: var(--brand-text);
+    padding: 10px 0; /* Más delgada */
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+}
+
+.nav-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.nav-links a {
+    color: var(--brand-text);
+    text-decoration: none;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 0.85rem; /* Letra un poco más chica */
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+.nav-links a:hover { background-color: rgba(255, 255, 255, 0.1); }
+
+/* ESTRUCTURA */
+.container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+.layout-wrapper { display: flex; gap: 20px; align-items: flex-start; flex: 1; }
+.main-column { flex: 7; width: 100%; }
+.sidebar-column { flex: 3; width: 100%; display: flex; flex-direction: column; gap: 20px; }
+
+@media (max-width: 768px) {
+    .layout-wrapper { flex-direction: column; }
+    .sidebar-column { order: -1; }
+}
+
+/* --- TARJETAS COMPACTAS (AQUÍ ESTÁ EL CAMBIO IMPORTANTE) --- */
+.grid { 
+    display: grid; 
+    grid-template-columns: 1fr; 
+    gap: 8px; /* Menos espacio entre tarjetas */
+}
+
+.card {
+    background: var(--card-bg);
+    border-radius: 6px; /* Bordes menos redondeados */
+    padding: 12px 15px; /* Mucho menos relleno interno */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    border-left: 4px solid #ccc; /* Borde de color más fino */
+    transition: transform 0.2s;
+}
+
+.card:hover { transform: translateX(3px); }
+
+.card-header { 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; /* Alineación perfecta */
+    margin-bottom: 4px; 
+}
+
+.badge-anio { 
+    font-weight: bold; 
+    color: #999; 
+    font-size: 0.85rem; 
+}
+
+/* El título de la noticia más compacto */
+.card h3 { 
+    margin: 2px 0 5px 0; 
+    font-size: 1rem; /* Tamaño de letra normal, no gigante */
+    line-height: 1.3;
+}
+
+/* Descripción */
+.card-description { 
+    color: #555; 
+    font-size: 0.9rem; 
+    line-height: 1.4; 
+    
+    max-height: 0; 
+    opacity: 0; 
+    overflow: hidden; 
+    transition: all 0.3s ease; 
+    cursor: pointer; 
+}
+
+/* Al desplegar */
+.card:hover .card-description, .card-description.locked { 
+    max-height: 500px; 
+    opacity: 1; 
+    margin-top: 8px; 
+    padding-top: 8px;
+    border-top: 1px dashed #eee; /* Línea separadora sutil */
+}
+
+/* WIDGETS */
+.widget { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+.widget h3 { margin-top: 0; border-bottom: 2px solid #eee; padding-bottom: 8px; font-size: 1rem; color: #444; margin-bottom: 10px;}
+
+/* BUSCADOR */
+.search-box { display: flex; gap: 5px; }
+.search-box input { width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; }
+.search-box button { background: var(--primary); color: white; border: none; padding: 0 12px; border-radius: 4px; cursor: pointer; }
+
+/* CALENDARIO */
+.calendar-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+.calendar-header button { background: none; border: none; cursor: pointer; font-size: 1rem; color: #666; }
+.calendar-header h3 { font-size: 0.95rem; }
+.calendar-days { display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px; text-align: center; }
+.calendar-day { padding: 6px 0; font-size: 0.85rem; cursor: pointer; border-radius: 4px; }
+.calendar-day:hover { background: #e0e7ff; }
+.calendar-day.active { background: var(--primary); color: white; font-weight: bold; }
+.calendar-day.today { border: 1px solid var(--primary); color: var(--primary); }
+.day-name { font-weight: bold; font-size: 0.75rem; color: #888; margin-bottom: 5px; }
+
+/* LISTA DESTACADOS */
+.news-list { list-style: none; padding: 0; margin: 0; }
+.news-list li { margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #f0f0f0; }
+.news-list li:last-child { border: none; }
+.news-list a { text-decoration: none; color: #333; font-weight: 500; font-size: 0.85rem; display: block; margin-top: 3px; }
+.news-list a:hover { color: var(--primary); }
+
+.news-cat { font-size: 0.65rem; padding: 1px 5px; border-radius: 3px; color: white; }
+.news-cat.local { background: #3c6e71; }
+.news-cat.ani { background: #fb8500; }
+.news-cat.cel { background: #033f63; }
+.news-cat.int { background: #333333; }
+
+/* FOOTER */
+.main-footer {
+    background-color: var(--brand-bg);
+    color: var(--brand-text);
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+    font-size: 0.85rem;
+}
+
+.autor-name { font-size: calc(100% + 1px); font-weight: 500; }
+#loading, #error-container { text-align: center; margin: 20px 0; }
+.error-msg { background: #ffebee; color: #c62828; padding: 10px; border-radius: 5px; }

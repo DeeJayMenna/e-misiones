@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>e-misiones</title> <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="header-content">
+            <h1><i class="fas fa-calendar-check"></i> e-misiones</h1>
+            <div class="fecha-hoy" id="display-date">Cargando fecha...</div>
+        </div>
+    </header>
+
+    <nav class="navbar">
+        <div class="container nav-links">
+            <a href="#" id="nav-inicio"><i class="fas fa-home"></i> Inicio</a>
+            <a href="#" id="nav-efemerides"><i class="fas fa-calendar-day"></i> EFEMÉRIDES</a>
+            <a href="#" id="nav-noticias"><i class="fas fa-newspaper"></i> NOTICIAS</a>
+            <a href="#" id="nav-contacto"><i class="fas fa-envelope"></i> CONTACTO</a>
+        </div>
+    </nav>
+
+    <div class="container layout-wrapper">
+        
+        <main class="main-column">
+            <div id="loading">
+                <i class="fas fa-spinner fa-spin"></i> Cargando datos...
+            </div>
+            <div id="error-container" style="display:none;"></div>
+            
+            <div class="grid" id="contenido"></div>
+        </main>
+
+        <aside class="sidebar-column">
+            
+            <div class="widget search-widget">
+                <h3><i class="fas fa-search"></i> Buscar</h3>
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Buscar...">
+                    <button id="searchBtn"><i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+
+            <div class="widget calendar-widget">
+                <div class="calendar-header">
+                    <button id="prevMonth"><i class="fas fa-chevron-left"></i></button>
+                    <h3 id="monthYear">Enero 2026</h3>
+                    <button id="nextMonth"><i class="fas fa-chevron-right"></i></button>
+                </div>
+                <div class="calendar-days" id="calendarDays"></div>
+            </div>
+
+            <div class="widget news-widget">
+                <h3><i class="fas fa-bullhorn"></i> DESTACADOS</h3>
+                <ul class="news-list">
+                    <li>
+                        <span class="news-cat local">Local</span>
+                        <a href="#">Inauguración de obras municipales.</a>
+                    </li>
+                    <li>
+                        <span class="news-cat int">Mundo</span>
+                        <a href="#">Nuevos acuerdos comerciales.</a>
+                    </li>
+                </ul>
+            </div>
+
+        </aside>
+
+    </div>
+
+    <footer class="main-footer">
+        <div class="container">
+            <p>Webdesign <span class="autor-name">Marcelo Menna</span>®</p>
+        </div>
+    </footer>
+
+    <script src="static/datos.js"></script>
+    <script src="static/script.js?v=COMPACTO_FINAL"></script>
+
+</body>
+</html>
