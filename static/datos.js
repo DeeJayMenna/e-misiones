@@ -3,25 +3,33 @@ const BASE_DE_DATOS = [
         "dia": 5,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Atlético Posadas hizo historia y se consagró campeón en la primera edición de la Liga Nacional de Clubes Senior en Misiones",
+        "titulo": "Santa Ana: incendio en un poste del tendido eléctrico",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"199\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/atletico-posadas-3-300x...<br><br><a href='https://misionesonline.net/?p=1000001654535&preview=true&preview_id=1000001654535' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"244\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-...<br><br><a href='https://misionesonline.net/2026/01/05/santa-ana-incendio-en-un-poste-del-tendido-electrico/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 5,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Sunset de Liderazgo: experiencias inmersivas en la naturaleza llega a Posadas",
+        "titulo": "Brasil: detuvieron en Copacabana a dos argentinos acusados de robar whisky y productos de lujo",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"165\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-...<br><br><a href='https://misionesonline.net/2026/01/05/sunset-de-liderazgo-experiencias-inmersivas-en-la-naturaleza-llega-a-posadas/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"168\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/las-camaras-capturaron-...<br><br><a href='https://misionesonline.net/2026/01/05/brasil-detuvieron-en-copacabana-a-dos-argentinos-acusados-de-robar-whisky-y-productos-de-lujo/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 5,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Más beneficios pagando online: ya está disponible la Tasa Retributiva a la Propiedad Inmueble 2026",
+        "titulo": "Ya se viven las actividades de verano en El Brete y Costa Sur con propuestas gratuitas para todas las edades",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"188\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/Tasa-Retributiva-a-la-P...<br><br><a href='https://misionesonline.net/2026/01/05/mas-beneficios-pagando-online-ya-esta-disponible-la-tasa-retributiva-a-la-propiedad-inmueble-2026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"169\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/zumba-300x169.jpg\" styl...<br><br><a href='https://misionesonline.net/2026/01/05/ya-se-viven-las-actividades-de-verano-en-el-brete-y-costa-sur-con-propuestas-gratuitas-para-todas-las-edades/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+    },
+    {
+        "dia": 5,
+        "mes": 1,
+        "anio": 2026,
+        "titulo": "El Deca es campeón del fútbol senior y representará a Misiones a nivel nacional",
+        "categoria": "Noticia Local",
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"603\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/atletico-posadas-liga-se...<br><br><a href='https://www.primeraedicion.com.ar/nota/101071835/el-deca-es-campeon-del-futbol-senior-y-representara-a-misiones-a-nivel-nacional/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 5,
@@ -43,57 +51,49 @@ const BASE_DE_DATOS = [
         "dia": 5,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Variabilidad climática: seguir pronósticos a corto plazo para anticiparse a catástrofes",
-        "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"546\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2025/12/Corrientes-inundaciones-...<br><br><a href='https://www.primeraedicion.com.ar/nota/101071823/variabilidad-climatica-seguir-pronosticos-a-corto-plazo-para-anticiparse-a-catastrofes/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "titulo": "Petro sube el tono ante las amenazas de Trump y advierte que puede “tomar las armas” para responderle",
+        "categoria": "Noticia Nacional",
+        "descripcion": "El presidente colombiano, un exguerrillero, dijo que si bien había jurado “no tocar un arma más”, volvería a hacerlo “por la patria”<br><br><a href='https://www.lanacion.com.ar/estados-unidos/petro-sube-el-tono-ante-las-amenazas-de-trump-y-advierte-que-puede-tomar-las-armas-para-responderle-nid05012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 5,
         "mes": 1,
         "anio": 2026,
-        "titulo": "La reacción de Alex Padilla, el aliado de Newsom en California, tras la captura de Nicolás Maduro: “Es ilegal”",
+        "titulo": "Anto Roccuzzo compartió una foto en la pileta y sorprendió a todos con su físico escultural",
         "categoria": "Noticia Nacional",
-        "descripcion": "El senador se sumó a los demócratas que criticaron el accionar del presidente Donald Trump y cuestionaron la legalidad del proceso<br><br><a href='https://www.lanacion.com.ar/estados-unidos/california/la-reaccion-de-alex-padilla-el-aliado-de-newsom-en-california-tras-la-captura-de-nicolas-maduro-es-nid05012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "La madre del clan Messi aprovechó su estadía en el país para continuar con su rutina de entrenamiento; la foto con su amiga que dio qué hablar<br><br><a href='https://www.lanacion.com.ar/espectaculos/anto-roccuzzo-compartio-una-foto-en-la-pileta-y-sorprendio-a-todos-con-su-fisico-escultural-nid05012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 5,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Cuánto cuesta la Toyota Hilux en enero 2026",
+        "titulo": "Argentina viajará a Corea del Sur para jugar los Qualifiers de la Copa Davis con cuatro debutantes: por qué se bajaron los principales tenistas",
         "categoria": "Noticia Nacional",
-        "descripcion": "A cuánto se consigue durante el primer mes del año el modelo que supo ser el más vendido de todo el mercado local el año pasado<br><br><a href='https://www.lanacion.com.ar/autos/cuanto-cuesta-la-toyota-hilux-en-enero-2026-nid05012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>Thiago Tirante, Marco Trungelliti, Federico Gómez, Guido Andreozzi y Andrés Molteni son los cinco elegidos por el capitán Javier Frana.</li><li>Se jugar...<br><br><a href='https://www.clarin.com/deportes/argentina-viajara-corea-sur-jugar-qualifiers-copa-davis-debutantes-bajaron-principales-tenistas_0_smWzQmgcn7.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 5,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Faustino Oro fue elegido como el mejor ajedrecista juvenil del mundo",
+        "titulo": "La imagen viral de Nicolás Maduro esposado en Nueva York y su curiosa relación con la empresa de un ex comandante de los Navy SEAL de EE.UU.",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>El joven prodigio argentino fue el más votado en una encuesta realizada durante Campeonato Mundial FIDE de Partidas Rápidas y Blitz que se celebró en Do...<br><br><a href='https://www.clarin.com/deportes/faustino-oro-elegido-mejor-ajedrecista-juvenil-mundo_0_T3HJ03ywyt.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>En un detalle inesperado, al dictador lo vistieron con un buzo confeccionado por la empresa de Jocko Willink, el ex comandante de los Navy SEAL que lide...<br><br><a href='https://www.clarin.com/estados-unidos/imagen-viral-nicolas-maduro-esposado-nueva-york-curiosa-relacion-empresa-ex-comandante-navy-seal-eeuu_0_ivEEGjCZLW.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 5,
         "mes": 1,
         "anio": 2026,
-        "titulo": "El fuego se devoró casi 100.000 hectáreas en La Pampa y los productores piden medidas para enfrentar la situación y las pérdidas",
+        "titulo": "Así es la casa de Millie Bobby Brown: naturaleza, ventanales y estilo británico",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>Son estimaciones de Carbap, que pidió líneas de créditos para los productores afectados.</li><li>Los incendios se tuvieron su epicentro en el oeste y su...<br><br><a href='https://www.clarin.com/rural/fuego-devoro-100000-hectareas-pampa-productores-piden-medidas-enfrentar-situacion-perdidas_0_olFr66j4fS.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "La casa de Millie Bobby Brown es un refugio rural con establos, animales y una cocina protagonista donde la pareja cría a su hija lejos de la ciudad.<br><br><a href='https://la100.cienradios.com/celebrities/asi-es-la-casa-de-millie-bobby-brown-naturaleza-ventanales-y-estilo-britanico/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 5,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Rosalía y la modelo Loli Bahia, juntas de la mano por las playas de Brasil",
+        "titulo": "Julia Roberts reveló que ver a George Clooney convertirse en padre es “muy especial” y la llena de “muchísima alegría”",
         "categoria": "Noticia Nacional",
-        "descripcion": "Rosalía y Loli Bahia fueron vistas de la mano en videos virales tras la presentación de Lux en el Cristo del Corcovado.<br><br><a href='https://la100.cienradios.com/espectaculos/rosalia-y-la-modelo-loli-bahia-juntas-de-la-mano-por-las-playas-de-brasil/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
-    },
-    {
-        "dia": 5,
-        "mes": 1,
-        "anio": 2026,
-        "titulo": "La serie norteamericana que arrasa en Netflix: tiene 4 capítulos y no es apta para menores de edad",
-        "categoria": "Noticia Nacional",
-        "descripcion": "La serie ofrece una historia atrapante que invita a conectarse con las emociones más profundas.<br><br><a href='https://la100.cienradios.com/espectaculos/cine-y-series/la-serie-norteamericana-que-arrasa-en-netflix-tiene-4-capitulos-y-no-es-apta-para-menores-de-edad/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "La actriz elogió a Amal Clooney y valoró la nueva etapa familiar de George Clooney junto a sus mellizos.<br><br><a href='https://la100.cienradios.com/celebrities/julia-roberts-revelo-que-ver-a-george-clooney-convertirse-en-padre-es-muy-especial-y-la-llena-de-muchisima-alegria/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 30,
@@ -926,5 +926,13 @@ const BASE_DE_DATOS = [
         "titulo": "En Reino Unido nace la oveja Dolly, primer animal clonado.",
         "categoria": "Internacional",
         "descripcion": ""
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "",
+        "titulo": "Día de Reyes",
+        "categoria": "Celebraciones",
+        "descripcion": "Es una festividad en la que se recuerda la adoración hacia el niño Jesús por parte de los tres Reyes Magos, como signo del reconocimiento de que Jesucristo es el rey y salvador de la humanidad."
     }
 ];
