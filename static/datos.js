@@ -3,6 +3,14 @@ const BASE_DE_DATOS = [
         "dia": 6,
         "mes": 1,
         "anio": 2026,
+        "titulo": "En vivo | Arriba Misiones por el streaming de Misiones Online",
+        "categoria": "Noticia Local",
+        "descripcion": "<img alt=\"Arriba Misiones\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"171\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/WhatsApp...<br><br><a href='https://misionesonline.net/2026/01/06/en-vivo-arriba-misiones-por-el-streaming-de-misiones-online-2/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": 2026,
         "titulo": "Tragedia vial en la Ruta Nacional 14 en Entre Ríos: un misionero entre los cuatro muertos tras el vuelco e incendio de un auto en la ruta 14",
         "categoria": "Noticia Local",
         "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"148\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/Accidente-en-Entre-Rios...<br><br><a href='https://misionesonline.net/2026/01/06/tragedia-vial-en-la-ruta-nacional-14/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
@@ -19,65 +27,65 @@ const BASE_DE_DATOS = [
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "La declaración completa de Nicolás Maduro ante el tribunal de Nueva York: “Soy un prisionero de guerra”",
+        "titulo": "El presidente colombiano llama a la calle y eleva el tono frente a EEUU",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"157\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/Maduro-tribunal-300x157...<br><br><a href='https://misionesonline.net/2026/01/05/nicolas-maduro-nueva-york-2026-15/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"563\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/petro.jpg\" style=\"displa...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072074/petro-convoca-marcha-colombia-tension-estados-unidos/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "La Nación retaceó 80% de ATN a provincias para “dibujar” el superávit",
+        "titulo": "Motociclista sufrió lesiones graves tras chocar con un perro en la ruta 17",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"563\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2023/06/coparticipacionweb.jpg\" ...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072025/gobierno-retuvo-fondos-atn-2025-provincias/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"698\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/choque-pozo-azul.jpg\" st...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072064/motociclista-lesiones-graves-choque-perro-ruta-17/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Atacaron a tiros el automóvil de un investigador de GN de Puerto Iguazú",
+        "titulo": "Bicicleta, arte y río: un paseo para disfrutar el verano posadeño",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"587\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/24-nota1-2x2-1.jpg\" styl...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072040/balean-vehiculo-gendarme-familia-paso-de-los-libres/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"579\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/Paseo-guiado-bicicletead...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072052/bicicleta-arte-y-rio-un-paseo-para-disfrutar-el-verano-posadeno/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "“Representar al país sería un sueño cumplido”",
-        "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"778\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/Gustavo-Delgado.jpg\" sty...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072030/gustavo-delgado-los-gladiadores-sur-centro-2026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
-    },
-    {
-        "dia": 6,
-        "mes": 1,
-        "anio": 2026,
-        "titulo": "Venezuela hoy, en vivo: Nicolás Maduro en EE.UU. y los últimos anuncios de Donald Trump, minuto a minuto",
+        "titulo": "Venezuela: disparos en Caracas y una “situación irregular” en los alrededores del Palacio de Miraflores",
         "categoria": "Noticia Nacional",
-        "descripcion": "Las repercusiones de la captura del mandatario venezolano, los mensajes en el mundo y las últimas noticias<br><br><a href='https://www.lanacion.com.ar/el-mundo/venezuela-hoy-en-vivo-nicolas-maduro-en-eeuu-y-los-ultimos-anuncios-de-donald-trump-minuto-a-minuto-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Desde el gobierno venezolano informaron que la policía respondió contra drones no identificados de forma “disuasiva”; la Casa Blanca aseguró que “Estados Unidos...<br><br><a href='https://www.lanacion.com.ar/el-mundo/venezuela-reportan-disparos-en-caracas-y-una-situacion-irregular-en-los-alrededores-del-palacio-de-nid05012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Con el tip de la abuela: la receta original de la rosca de Reyes simple y en pocos pasos",
+        "titulo": "Noticias del sur de Florida y Miami hoy, en vivo: nuevas leyes, clima y últimas actualizaciones del martes 6 de enero",
         "categoria": "Noticia Nacional",
-        "descripcion": "Seguí la guía de antaño para obtener un roscón esponjoso y rico sin necesidad de que tengas conocimientos en gastronomía<br><br><a href='https://www.lanacion.com.ar/recetas/con-el-tip-de-la-abuela-la-receta-original-de-la-rosca-de-reyes-simple-y-en-pocos-pasos-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Noticias de Miami y el Sur de Florida hoy en vivo: nuevas leyes, clima y anuncios de Ron DeSantis. Todas las actualizaciones minuto a minuto de EE.UU. este mart...<br><br><a href='https://www.lanacion.com.ar/estados-unidos/florida/noticias-del-sur-de-florida-y-miami-hoy-en-vivo-nuevas-leyes-clima-y-ultimas-actualizaciones-del-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Las 5 señales de daño renal que aparecen en la piel",
+        "titulo": "Dólar CCL hoy: a cuánto cotiza este martes 06 de enero",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>Las alteraciones en la piel no siempre son signos aislados sino que pueden reflejar deficiencias en los riñones.</li></ul><br><br><a href='https://www.clarin.com/estados-unidos/5-senales-dano-renal-aparecen-piel_0_YBoe1seitO.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>Mirá la cotización para la compra y venta del dólar CCL hoy.</li><li>Cotizaciones, evolución, previsiones e información para el cambio de monedas.</li><...<br><br><a href='https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-martes-06-enero_0_X9ePo3JDTa.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "¿Cómo regenerar los discos intervertebrales para tratar la lumbalgia?",
+        "titulo": "Dólar tarjeta hoy: a cuánto cotiza este martes 06 de enero",
         "categoria": "Noticia Nacional",
-        "descripcion": "Un equipo del instituto i3S de Portugal estudia cómo mejorar el tratamiento de una de las causas más comunes de dolor.<br><br><a href='https://www.clarin.com/internacional/regenerar-discos-intervertebrales-tratar-lumbalgia_0_N8O4VTGIXR.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>Mirá la cotización para la compra y venta del dólar tarjeta hoy.</li><li>Cotizaciones, evolución, previsiones e información para el cambio de monedas.</...<br><br><a href='https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-martes-06-enero_0_qtjeGvKL0m.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": 2026,
+        "titulo": "Salió a la luz el violento pasado de Tomás Mulinetti, el hombre acusado de asesinar a Delfina Aimino en Año Nuevo",
+        "categoria": "Noticia Nacional",
+        "descripcion": "Tomás Mulinetti, acusado de femicidio, recibió una gran cantidad de denuncias públicas por parte de excompañeras.<br><br><a href='https://la100.cienradios.com/sociedad/salio-a-la-luz-el-violento-pasado-de-tomas-mulinetti-el-hombre-acusado-de-asesinar-a-delfina-aimino-en-ano-nuevo/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
@@ -86,14 +94,6 @@ const BASE_DE_DATOS = [
         "titulo": "Sebastián Villa confirmó que quiere jugar en River: “Si Gallardo me llama, viajo ya mismo”",
         "categoria": "Noticia Nacional",
         "descripcion": "El ex delantero de Boca dejó en claro que su prioridad es jugar en el club de Nuñez.<br><br><a href='https://la100.cienradios.com/deportes/sebastian-villa-confirmo-que-quiere-jugar-en-river-si-gallardo-me-llama-viajo-ya-mismo/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
-    },
-    {
-        "dia": 6,
-        "mes": 1,
-        "anio": 2026,
-        "titulo": "Se incendió un geriátrico en Olavarría: hay dos muertos y al menos 37 heridos",
-        "categoria": "Noticia Nacional",
-        "descripcion": "Murieron dos personas y hay 37 heridos tras un incendio en un geriátrico en Olavarría: tres bomberos están hospitalizados, uno de ellos en terapia intensiva.<br><br><a href='https://la100.cienradios.com/sociedad/se-incendio-un-geriatrico-en-olavarria-hay-dos-muertos-y-al-menos-37-heridos/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 30,
