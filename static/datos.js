@@ -3,6 +3,22 @@ const BASE_DE_DATOS = [
         "dia": 6,
         "mes": 1,
         "anio": 2026,
+        "titulo": "Tragedia vial en la Ruta Nacional 14 en Entre Ríos: un misionero entre los cuatro muertos tras el vuelco e incendio de un auto en la ruta 14",
+        "categoria": "Noticia Local",
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"148\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/Accidente-en-Entre-Rios...<br><br><a href='https://misionesonline.net/2026/01/06/tragedia-vial-en-la-ruta-nacional-14/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": 2026,
+        "titulo": "En vivo | Así está la Costanera de Posadas ahora",
+        "categoria": "Noticia Local",
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"169\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-...<br><br><a href='https://misionesonline.net/2026/01/06/asi-esta-la-costanera-de-posadas-ahora-22/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": 2026,
         "titulo": "La declaración completa de Nicolás Maduro ante el tribunal de Nueva York: “Soy un prisionero de guerra”",
         "categoria": "Noticia Local",
         "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"157\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/Maduro-tribunal-300x157...<br><br><a href='https://misionesonline.net/2026/01/05/nicolas-maduro-nueva-york-2026-15/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
@@ -11,89 +27,73 @@ const BASE_DE_DATOS = [
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "El fiscal Stornelli pidió la extradición de Maduro a la Argentina para que declare por crímenes de lesa humanidad",
+        "titulo": "La Nación retaceó 80% de ATN a provincias para “dibujar” el superávit",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"200\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/Nicolas-Maduro-300x200....<br><br><a href='https://misionesonline.net/2026/01/05/stornelli-extradicion-de-maduro-2025/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"563\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2023/06/coparticipacionweb.jpg\" ...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072025/gobierno-retuvo-fondos-atn-2025-provincias/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Máxima tensión en Venezuela: reportaron disparos y drones sobre el Palacio de Miraflores",
+        "titulo": "Atacaron a tiros el automóvil de un investigador de GN de Puerto Iguazú",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"175\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/palcio-de-miraflores-30...<br><br><a href='https://misionesonline.net/2026/01/05/disparos-en-venezuela-2026-2/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"587\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/24-nota1-2x2-1.jpg\" styl...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072040/balean-vehiculo-gendarme-familia-paso-de-los-libres/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Qué es la Teofanía, que celebran hoy los católicos ucranianos",
+        "titulo": "“Representar al país sería un sueño cumplido”",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"663\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2023/01/teofania9.jpeg\" style=\"d...<br><br><a href='https://www.primeraedicion.com.ar/nota/100665791/que-es-la-teofania-que-celebran-hoy-los-catolicos-ucranianos/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"778\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/Gustavo-Delgado.jpg\" sty...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072030/gustavo-delgado-los-gladiadores-sur-centro-2026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Milei refuerza filtros anticorrupción y pone en la mira a empresas con antecedentes internacionales",
-        "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"573\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/licitacion_publica.jpg\" ...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072027/milei-filtros-anticorrupcion-empresas-antecedentes-internacionales/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
-    },
-    {
-        "dia": 6,
-        "mes": 1,
-        "anio": 2026,
-        "titulo": "“Efecto Trump”: Se cumplen 5 años de la toma del Capitolio",
-        "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"562\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2021/01/trump1.jpg\" style=\"displ...<br><br><a href='https://www.primeraedicion.com.ar/nota/101071878/aniversario-toma-del-capitolio/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
-    },
-    {
-        "dia": 6,
-        "mes": 1,
-        "anio": 2026,
-        "titulo": "Desde el sábado, cierra por 50 días un ramal ferroviario de la línea Mitre",
+        "titulo": "Venezuela hoy, en vivo: Nicolás Maduro en EE.UU. y los últimos anuncios de Donald Trump, minuto a minuto",
         "categoria": "Noticia Nacional",
-        "descripcion": "El servicio a Tigre estará interrumpido y circularán de manera limitada los trenes a J. L. Suárez y Bartolomé Mitre<br><br><a href='https://www.lanacion.com.ar/sociedad/desde-el-sabado-cierra-por-50-dias-un-ramal-ferroviario-de-la-linea-mitre-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Las repercusiones de la captura del mandatario venezolano, los mensajes en el mundo y las últimas noticias<br><br><a href='https://www.lanacion.com.ar/el-mundo/venezuela-hoy-en-vivo-nicolas-maduro-en-eeuu-y-los-ultimos-anuncios-de-donald-trump-minuto-a-minuto-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Rosca de Reyes: beneficios, calorías y aportes de este tradicional postre",
+        "titulo": "Con el tip de la abuela: la receta original de la rosca de Reyes simple y en pocos pasos",
         "categoria": "Noticia Nacional",
-        "descripcion": "Si te preocupa el consumo de esta famosa preparación por considerarla “pesada”, te decimos cuál es el valor nutricional y otros detalles<br><br><a href='https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/rosca-de-reyes-beneficios-calorias-y-aportes-de-este-tradicional-postre-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Seguí la guía de antaño para obtener un roscón esponjoso y rico sin necesidad de que tengas conocimientos en gastronomía<br><br><a href='https://www.lanacion.com.ar/recetas/con-el-tip-de-la-abuela-la-receta-original-de-la-rosca-de-reyes-simple-y-en-pocos-pasos-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Los Reyes Magos: una visita",
+        "titulo": "Las 5 señales de daño renal que aparecen en la piel",
         "categoria": "Noticia Nacional",
-        "descripcion": "El pasto, el agua y un libro para recorrer con el dedo rutas intrincadas entre picos montañosos.<br><br><a href='https://www.clarin.com/opinion/reyes-magos-visita_0_sCBLslzfH7.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>Las alteraciones en la piel no siempre son signos aislados sino que pueden reflejar deficiencias en los riñones.</li></ul><br><br><a href='https://www.clarin.com/estados-unidos/5-senales-dano-renal-aparecen-piel_0_YBoe1seitO.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "El atípico Año Nuevo de un viejo capo narco: internado de urgencia y custodiado por 50 agentes",
+        "titulo": "¿Cómo regenerar los discos intervertebrales para tratar la lumbalgia?",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>Así arrancó el 2026 Miguel Ángel \"Mameluco\" Villalba, histórico capo narco de la villa 18 de Septiembre, de San Martín, donde el lunes hubo un feroz tir...<br><br><a href='https://www.clarin.com/policiales/atipico-ano-nuevo-viejo-capo-narco-internado-urgencia-custodiado-50-agentes_0_FPdOnrfakd.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Un equipo del instituto i3S de Portugal estudia cómo mejorar el tratamiento de una de las causas más comunes de dolor.<br><br><a href='https://www.clarin.com/internacional/regenerar-discos-intervertebrales-tratar-lumbalgia_0_N8O4VTGIXR.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Corina Machado elogió a Donald Trump tras la captura de Nicolás Maduro y anunció que volverá a Venezuela",
+        "titulo": "Sebastián Villa confirmó que quiere jugar en River: “Si Gallardo me llama, viajo ya mismo”",
         "categoria": "Noticia Nacional",
-        "descripcion": "María Corina Machado le agradeció por televisión a Donald Trump por la captura de Maduro.<br><br><a href='https://la100.cienradios.com/mundo/corina-machado-elogio-a-donald-trump-tras-la-captura-de-nicolas-maduro-y-anuncio-que-volvera-a-venezuela/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "El ex delantero de Boca dejó en claro que su prioridad es jugar en el club de Nuñez.<br><br><a href='https://la100.cienradios.com/deportes/sebastian-villa-confirmo-que-quiere-jugar-en-river-si-gallardo-me-llama-viajo-ya-mismo/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Horóscopo de Virgo de hoy: martes 06 de enero de 2026",
+        "titulo": "Se incendió un geriátrico en Olavarría: hay dos muertos y al menos 37 heridos",
         "categoria": "Noticia Nacional",
-        "descripcion": "El período que abarca a Virgo va del 24 de agosto hasta el 23 de septiembre, es el sexto signo del Zodíaco, representado por la doncella.<br><br><a href='https://la100.cienradios.com/horoscopo/horoscopo-de-virgo-hoy-martes-06-de-enero-de-2026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Murieron dos personas y hay 37 heridos tras un incendio en un geriátrico en Olavarría: tres bomberos están hospitalizados, uno de ellos en terapia intensiva.<br><br><a href='https://la100.cienradios.com/sociedad/se-incendio-un-geriatrico-en-olavarria-hay-dos-muertos-y-al-menos-37-heridos/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 30,
@@ -970,6 +970,14 @@ const BASE_DE_DATOS = [
     {
         "dia": 6,
         "mes": 1,
+        "anio": "2010",
+        "titulo": "Fallecía el histórico “Fernandito”",
+        "categoria": "Local",
+        "descripcion": "El popular personaje posadeño murió a los 31 años. Fernando Antonio Pereyra falleció el 6 de enero de 2010, a los 31años, en el hospital Pedro Baliña, donde se encontraba internado con un cuadro respiratorio infeccioso."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
         "anio": "1412",
         "titulo": "Nace Juana de Arco",
         "categoria": "Internacional",
@@ -1074,10 +1082,18 @@ const BASE_DE_DATOS = [
     {
         "dia": 6,
         "mes": 1,
+        "anio": "1972",
+        "titulo": "Nek",
+        "categoria": "Internacional",
+        "descripcion": "Filippo Neviani, más conocido por su nombre artístico Nek, es un cantautor y multinstrumentista italiano de música pop rock en español y en italiano"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
         "anio": "1975",
         "titulo": "Ángel Labruna es presentado como DT de River Plate",
         "categoria": "Nacional",
-        "descripcion": "El exdelantero y entrenador es presentado oficialmente como nuevo técnico de River Plate, donde comenzará un exitoso ciclo que le permitirá al club salir campeón luego de 18 años. Labruna, máximo goleador de la era del fútbol profesional, es uno de los grandes ídolos de los “millonarios”."
+        "descripcion": "El exdelantero es presentado oficialmente como nuevo técnico de River Plate, donde comenzará un exitoso ciclo que le permitirá al club salir campeón luego de 18 años. Labruna, máximo goleador de la era del fútbol profesional, es uno de los grandes ídolos de los “millonarios”."
     },
     {
         "dia": 6,
@@ -1086,6 +1102,14 @@ const BASE_DE_DATOS = [
         "titulo": "Fallece Luis Sandrini",
         "categoria": "Nacional",
         "descripcion": "Fallece el actor teatral y cinematográfico Luis Sandrini, protagonista de obras como Cuando los duendes cazan perdices y de películas como Riachuelo."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1983",
+        "titulo": "Fundación de la banda Red Hot Chili Pepers",
+        "categoria": "Internacional",
+        "descripcion": "Si bien el debut fue en diciembre de 1982, el año de su formación como RHCP es 1983, naciendo en la escena underground de Los Ángeles."
     },
     {
         "dia": 6,
