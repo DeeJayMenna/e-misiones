@@ -1,105 +1,105 @@
 const BASE_DE_DATOS = [
     {
-        "dia": 5,
+        "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Santa Ana: incendio en un poste del tendido eléctrico",
+        "titulo": "La declaración completa de Nicolás Maduro ante el tribunal de Nueva York: “Soy un prisionero de guerra”",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"244\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-...<br><br><a href='https://misionesonline.net/2026/01/05/santa-ana-incendio-en-un-poste-del-tendido-electrico/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"157\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/Maduro-tribunal-300x157...<br><br><a href='https://misionesonline.net/2026/01/05/nicolas-maduro-nueva-york-2026-15/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 5,
+        "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Brasil: detuvieron en Copacabana a dos argentinos acusados de robar whisky y productos de lujo",
+        "titulo": "El fiscal Stornelli pidió la extradición de Maduro a la Argentina para que declare por crímenes de lesa humanidad",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"168\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/las-camaras-capturaron-...<br><br><a href='https://misionesonline.net/2026/01/05/brasil-detuvieron-en-copacabana-a-dos-argentinos-acusados-de-robar-whisky-y-productos-de-lujo/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"200\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/Nicolas-Maduro-300x200....<br><br><a href='https://misionesonline.net/2026/01/05/stornelli-extradicion-de-maduro-2025/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 5,
+        "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Ya se viven las actividades de verano en El Brete y Costa Sur con propuestas gratuitas para todas las edades",
+        "titulo": "Máxima tensión en Venezuela: reportaron disparos y drones sobre el Palacio de Miraflores",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"169\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/zumba-300x169.jpg\" styl...<br><br><a href='https://misionesonline.net/2026/01/05/ya-se-viven-las-actividades-de-verano-en-el-brete-y-costa-sur-con-propuestas-gratuitas-para-todas-las-edades/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"175\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/palcio-de-miraflores-30...<br><br><a href='https://misionesonline.net/2026/01/05/disparos-en-venezuela-2026-2/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 5,
+        "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "El Deca es campeón del fútbol senior y representará a Misiones a nivel nacional",
+        "titulo": "Qué es la Teofanía, que celebran hoy los católicos ucranianos",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"603\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/atletico-posadas-liga-se...<br><br><a href='https://www.primeraedicion.com.ar/nota/101071835/el-deca-es-campeon-del-futbol-senior-y-representara-a-misiones-a-nivel-nacional/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"663\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2023/01/teofania9.jpeg\" style=\"d...<br><br><a href='https://www.primeraedicion.com.ar/nota/100665791/que-es-la-teofania-que-celebran-hoy-los-catolicos-ucranianos/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 5,
+        "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Nicolás Maduro comparece ante la justicia estadounidense: ¿podría enfrentar la pena de muerte?",
+        "titulo": "Milei refuerza filtros anticorrupción y pone en la mira a empresas con antecedentes internacionales",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"601\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/maduro-detencion-eeuu-nu...<br><br><a href='https://www.primeraedicion.com.ar/nota/101071837/nicolas-maduro-comparece-ante-la-justicia-estadounidense-podria-enfrentar-la-pena-de-muerte/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"573\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/licitacion_publica.jpg\" ...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072027/milei-filtros-anticorrupcion-empresas-antecedentes-internacionales/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 5,
+        "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Conductores manejaban borrachos sobre la ruta 14 y fueron demorados",
+        "titulo": "“Efecto Trump”: Se cumplen 5 años de la toma del Capitolio",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"578\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/conductores-borrachos-de...<br><br><a href='https://www.primeraedicion.com.ar/nota/101071818/conductores-manejaban-borrachos-sobre-la-ruta-14-y-fueron-demorados/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"562\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2021/01/trump1.jpg\" style=\"displ...<br><br><a href='https://www.primeraedicion.com.ar/nota/101071878/aniversario-toma-del-capitolio/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 5,
+        "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Petro sube el tono ante las amenazas de Trump y advierte que puede “tomar las armas” para responderle",
+        "titulo": "Desde el sábado, cierra por 50 días un ramal ferroviario de la línea Mitre",
         "categoria": "Noticia Nacional",
-        "descripcion": "El presidente colombiano, un exguerrillero, dijo que si bien había jurado “no tocar un arma más”, volvería a hacerlo “por la patria”<br><br><a href='https://www.lanacion.com.ar/estados-unidos/petro-sube-el-tono-ante-las-amenazas-de-trump-y-advierte-que-puede-tomar-las-armas-para-responderle-nid05012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "El servicio a Tigre estará interrumpido y circularán de manera limitada los trenes a J. L. Suárez y Bartolomé Mitre<br><br><a href='https://www.lanacion.com.ar/sociedad/desde-el-sabado-cierra-por-50-dias-un-ramal-ferroviario-de-la-linea-mitre-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 5,
+        "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Anto Roccuzzo compartió una foto en la pileta y sorprendió a todos con su físico escultural",
+        "titulo": "Rosca de Reyes: beneficios, calorías y aportes de este tradicional postre",
         "categoria": "Noticia Nacional",
-        "descripcion": "La madre del clan Messi aprovechó su estadía en el país para continuar con su rutina de entrenamiento; la foto con su amiga que dio qué hablar<br><br><a href='https://www.lanacion.com.ar/espectaculos/anto-roccuzzo-compartio-una-foto-en-la-pileta-y-sorprendio-a-todos-con-su-fisico-escultural-nid05012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Si te preocupa el consumo de esta famosa preparación por considerarla “pesada”, te decimos cuál es el valor nutricional y otros detalles<br><br><a href='https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/rosca-de-reyes-beneficios-calorias-y-aportes-de-este-tradicional-postre-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 5,
+        "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Argentina viajará a Corea del Sur para jugar los Qualifiers de la Copa Davis con cuatro debutantes: por qué se bajaron los principales tenistas",
+        "titulo": "Los Reyes Magos: una visita",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>Thiago Tirante, Marco Trungelliti, Federico Gómez, Guido Andreozzi y Andrés Molteni son los cinco elegidos por el capitán Javier Frana.</li><li>Se jugar...<br><br><a href='https://www.clarin.com/deportes/argentina-viajara-corea-sur-jugar-qualifiers-copa-davis-debutantes-bajaron-principales-tenistas_0_smWzQmgcn7.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "El pasto, el agua y un libro para recorrer con el dedo rutas intrincadas entre picos montañosos.<br><br><a href='https://www.clarin.com/opinion/reyes-magos-visita_0_sCBLslzfH7.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 5,
+        "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "La imagen viral de Nicolás Maduro esposado en Nueva York y su curiosa relación con la empresa de un ex comandante de los Navy SEAL de EE.UU.",
+        "titulo": "El atípico Año Nuevo de un viejo capo narco: internado de urgencia y custodiado por 50 agentes",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>En un detalle inesperado, al dictador lo vistieron con un buzo confeccionado por la empresa de Jocko Willink, el ex comandante de los Navy SEAL que lide...<br><br><a href='https://www.clarin.com/estados-unidos/imagen-viral-nicolas-maduro-esposado-nueva-york-curiosa-relacion-empresa-ex-comandante-navy-seal-eeuu_0_ivEEGjCZLW.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>Así arrancó el 2026 Miguel Ángel \"Mameluco\" Villalba, histórico capo narco de la villa 18 de Septiembre, de San Martín, donde el lunes hubo un feroz tir...<br><br><a href='https://www.clarin.com/policiales/atipico-ano-nuevo-viejo-capo-narco-internado-urgencia-custodiado-50-agentes_0_FPdOnrfakd.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 5,
+        "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Así es la casa de Millie Bobby Brown: naturaleza, ventanales y estilo británico",
+        "titulo": "Corina Machado elogió a Donald Trump tras la captura de Nicolás Maduro y anunció que volverá a Venezuela",
         "categoria": "Noticia Nacional",
-        "descripcion": "La casa de Millie Bobby Brown es un refugio rural con establos, animales y una cocina protagonista donde la pareja cría a su hija lejos de la ciudad.<br><br><a href='https://la100.cienradios.com/celebrities/asi-es-la-casa-de-millie-bobby-brown-naturaleza-ventanales-y-estilo-britanico/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "María Corina Machado le agradeció por televisión a Donald Trump por la captura de Maduro.<br><br><a href='https://la100.cienradios.com/mundo/corina-machado-elogio-a-donald-trump-tras-la-captura-de-nicolas-maduro-y-anuncio-que-volvera-a-venezuela/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 5,
+        "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Julia Roberts reveló que ver a George Clooney convertirse en padre es “muy especial” y la llena de “muchísima alegría”",
+        "titulo": "Horóscopo de Virgo de hoy: martes 06 de enero de 2026",
         "categoria": "Noticia Nacional",
-        "descripcion": "La actriz elogió a Amal Clooney y valoró la nueva etapa familiar de George Clooney junto a sus mellizos.<br><br><a href='https://la100.cienradios.com/celebrities/julia-roberts-revelo-que-ver-a-george-clooney-convertirse-en-padre-es-muy-especial-y-la-llena-de-muchisima-alegria/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "El período que abarca a Virgo va del 24 de agosto hasta el 23 de septiembre, es el sexto signo del Zodíaco, representado por la doncella.<br><br><a href='https://la100.cienradios.com/horoscopo/horoscopo-de-virgo-hoy-martes-06-de-enero-de-2026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 30,
         "mes": 12,
         "anio": "",
-        "titulo": "- Día Internacional del Cine Indio",
+        "titulo": "Día Internacional del Cine Indio",
         "categoria": "Celebraciones",
         "descripcion": ""
     },
@@ -107,7 +107,7 @@ const BASE_DE_DATOS = [
         "dia": 30,
         "mes": 12,
         "anio": "",
-        "titulo": "* San Raúl",
+        "titulo": "San Raúl",
         "categoria": "Celebraciones",
         "descripcion": ""
     },
@@ -934,5 +934,325 @@ const BASE_DE_DATOS = [
         "titulo": "Día de Reyes",
         "categoria": "Celebraciones",
         "descripcion": "Es una festividad en la que se recuerda la adoración hacia el niño Jesús por parte de los tres Reyes Magos, como signo del reconocimiento de que Jesucristo es el rey y salvador de la humanidad."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "",
+        "titulo": "Día Mundial de los Huérfanos de la Guerra",
+        "categoria": "Celebraciones",
+        "descripcion": ""
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "",
+        "titulo": "Día Mundial de la Astrología",
+        "categoria": "Celebraciones",
+        "descripcion": ""
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "",
+        "titulo": "Día Internacional del Beso Robado",
+        "categoria": "Celebraciones",
+        "descripcion": ""
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "",
+        "titulo": "Epifanía del Señor",
+        "categoria": "Celebraciones",
+        "descripcion": ""
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1412",
+        "titulo": "Nace Juana de Arco",
+        "categoria": "Internacional",
+        "descripcion": "Heroína francesa que salvó a su país de la dominación inglesa."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1852",
+        "titulo": "Muere Louis Braille",
+        "categoria": "Internacional",
+        "descripcion": "Creador del sistema de lectura para ciegos."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1911",
+        "titulo": "Se funda el Club Almagro",
+        "categoria": "Nacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1919",
+        "titulo": "Muere Theodore Roosevelt",
+        "categoria": "Internacional",
+        "descripcion": "Expresidente de EEUU"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1932",
+        "titulo": "Primer Campeonato profesional de Boca Juniors",
+        "categoria": "Nacional",
+        "descripcion": "En el estadio de Tagle y Figueroa Alcorta, Boca Junior gana el campeonato de 1931 al vencer por 3-0 al local River Plate, con lo que se convierte en el primer campeón de la era profesional del fútbol argentino."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1943",
+        "titulo": "Nace Santo Biasatti",
+        "categoria": "Nacional",
+        "descripcion": "Periodista argentino."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1946",
+        "titulo": "Nace Syd Barret (Roger Barret)",
+        "categoria": "Internacional",
+        "descripcion": "En la ciudad de Cambridge (Durham, Inglaterra) nace el músico y compositor británico Syd Barret (Roger Keith Barrett), vocalista y guitarrista de Pink Floyd de la banda de rock que dejó tres años después de haberla fundado."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1953",
+        "titulo": "Nace Malcolm Young",
+        "categoria": "Internacional",
+        "descripcion": "Guitarrista de AC/DC."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1954",
+        "titulo": "Nace Diego Arnedo",
+        "categoria": "Nacional",
+        "descripcion": "Músico integrante de bandas como Sumo y Divididos."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1955",
+        "titulo": "Nace Rowan Atkinson",
+        "categoria": "Internacional",
+        "descripcion": "Nace en la ciudad de Durham, Inglaterra el actor y humorista británico Rowan Atkinson, popularmente conocido por interpretar el personaje principal de la serie de televisión Mr. Bean"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1963",
+        "titulo": "Nace Gonzalo Bonadeo",
+        "categoria": "Nacional",
+        "descripcion": "Periodista deportivo argentino"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1970",
+        "titulo": "Nace Rubén Capria",
+        "categoria": "Nacional",
+        "descripcion": "Exfutbolista argentino."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1970",
+        "titulo": "Nace Leonardo Astrada",
+        "categoria": "Nacional",
+        "descripcion": "Ex futbolista argentino."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1975",
+        "titulo": "Ángel Labruna es presentado como DT de River Plate",
+        "categoria": "Nacional",
+        "descripcion": "El exdelantero y entrenador es presentado oficialmente como nuevo técnico de River Plate, donde comenzará un exitoso ciclo que le permitirá al club salir campeón luego de 18 años. Labruna, máximo goleador de la era del fútbol profesional, es uno de los grandes ídolos de los “millonarios”."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1980",
+        "titulo": "Fallece Luis Sandrini",
+        "categoria": "Nacional",
+        "descripcion": "Fallece el actor teatral y cinematográfico Luis Sandrini, protagonista de obras como Cuando los duendes cazan perdices y de películas como Riachuelo."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "1995",
+        "titulo": "Racing Club anuncia como DT a Diego Armando Maradona",
+        "categoria": "Nacional",
+        "descripcion": "Maradona dirigió a Racing en once partidos, con un balance de dos victorias, seis empates y tres derrotas."
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": "2002",
+        "titulo": "Se deroga la ley de convertibilidad en Argentina.",
+        "categoria": "Nacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "",
+        "titulo": "Dia del coleccionista",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "",
+        "titulo": "Día del Sello Postal",
+        "categoria": "",
+        "descripcion": "Debido a que ese día nació Heinrich Stephan, personaje que organizo el sistema postal de Alemania y además fue el fundador de la Unión Postal Universal (UPU)."
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "",
+        "titulo": "Día de la Simpatía",
+        "categoria": "",
+        "descripcion": "La simpatía es una conjunción de sentimientos positivos, de afecto que uno puede sentir por alguien o algo, o la forma de ser de alguién que hace que agrade a los demás. Sentir simpatía por alguien nos atrae a esa persona, quizás por su carácter o por algún gesto como la risa, la sonrisa o el estado de ánimo."
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "",
+        "titulo": "",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1714",
+        "titulo": "Henry Mill patenta la máquina de escribir (que se fabrica años después).",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1768",
+        "titulo": "Nace José Bonaparte (Pepe Botella).",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1797",
+        "titulo": "Consagración de la bandera tricolor italiana (verde, blanco y rojo) en el Congreso de Reggio, en la Emilia.",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1928",
+        "titulo": "Nace Ante Garmaz",
+        "categoria": "",
+        "descripcion": "Modisto, actor, modelo y presentador de televisión croata nacionalizado argentino. (f. 16 de julio de 2011)"
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1929",
+        "titulo": "Aparece «Tarzan», una de las primeras historietas de aventuras.",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1934",
+        "titulo": "Se publica la historieta Flash Gordon.",
+        "categoria": "",
+        "descripcion": "Se publica en Nueva York, Estados Unidos, por primera vez la historieta de ciencia ficción que rápidamente se convirtió en un éxito del cine y la televisión."
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1943",
+        "titulo": "Fallece Nikola Tesla",
+        "categoria": "",
+        "descripcion": "Inventor e ingeniero serbio-estadounidense. Inventor, ingeniero mecánico, eléctrico y físico serbocroata."
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1950",
+        "titulo": "Nace Alberto Aguilera Valadez conocido como Juan Gabriel.",
+        "categoria": "",
+        "descripcion": "Actor, cantautor, compositor, productor y filántropo mexicano Alberto Aguilera Valadez."
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1952",
+        "titulo": "Nace Valeria Lynch",
+        "categoria": "",
+        "descripcion": "Cantante y actriz argentina. Nace en Buenos Aires. Una de las cantantes más importantes del país. Con más de 50 años de carrera es una de las artistas más destacadas de la música popular argentina."
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1964",
+        "titulo": "Nace Nicolas Cage",
+        "categoria": "",
+        "descripcion": "Actor de cine estadounidense."
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1980",
+        "titulo": "Se emite el último capítulo del El Chavo del 8.",
+        "categoria": "",
+        "descripcion": "En México se emite el último capítulo, el número 290, de una de las series más exitosas de la televisión."
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1985",
+        "titulo": "Nace Lewis Hamilton",
+        "categoria": "",
+        "descripcion": "Piloto automovilismo británico. 7 veces campeón en Fórmula 1."
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "1988",
+        "titulo": "Nace Hardwell",
+        "categoria": "",
+        "descripcion": "DJ y productor holandés."
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "2007",
+        "titulo": "Debuta Fernando Gago en el Real Madrid",
+        "categoria": "",
+        "descripcion": "El futbolista argentino debuta oficialmente con la camiseta del Real Madrid, el club español en el que jugó un total de 113 partidos."
+    },
+    {
+        "dia": 7,
+        "mes": 1,
+        "anio": "2013",
+        "titulo": "Leonel Messi gana su 4to. Balón de Oro.",
+        "categoria": "",
+        "descripcion": "En París, Francia, gana de manera consecutiva. Actualmente lleva ocho, cifra que lo convierte en el futbolista que más veces ha obtenido este trofeo."
     }
 ];
