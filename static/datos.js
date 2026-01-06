@@ -27,6 +27,22 @@ const BASE_DE_DATOS = [
         "dia": 6,
         "mes": 1,
         "anio": 2026,
+        "titulo": "El cine argentino sueña con el Oscar: “Belén” pasó el primer corte",
+        "categoria": "Noticia Local",
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"547\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/Belen-pelicula-argentina...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072078/el-cine-argentino-suena-con-el-oscar-belen-paso-el-primer-corte/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": 2026,
+        "titulo": "Sebastián Villa quiere jugar en River: “Si me llama Gallardo, mañana mismo viajo”",
+        "categoria": "Noticia Local",
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"695\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/GYQJ3CUNTFBMP4ML5NQSQ7K7...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072058/sebastian-villa-quiere-jugar-en-river-si-me-llama-gallardo-manana-mismo-viajo/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": 2026,
         "titulo": "El presidente colombiano llama a la calle y eleva el tono frente a EEUU",
         "categoria": "Noticia Local",
         "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"563\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/petro.jpg\" style=\"displa...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072074/petro-convoca-marcha-colombia-tension-estados-unidos/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
@@ -35,65 +51,49 @@ const BASE_DE_DATOS = [
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Motociclista sufrió lesiones graves tras chocar con un perro en la ruta 17",
-        "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"698\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/choque-pozo-azul.jpg\" st...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072064/motociclista-lesiones-graves-choque-perro-ruta-17/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
-    },
-    {
-        "dia": 6,
-        "mes": 1,
-        "anio": 2026,
-        "titulo": "Bicicleta, arte y río: un paseo para disfrutar el verano posadeño",
-        "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"579\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/Paseo-guiado-bicicletead...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072052/bicicleta-arte-y-rio-un-paseo-para-disfrutar-el-verano-posadeno/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
-    },
-    {
-        "dia": 6,
-        "mes": 1,
-        "anio": 2026,
-        "titulo": "Venezuela: disparos en Caracas y una “situación irregular” en los alrededores del Palacio de Miraflores",
+        "titulo": "Lucas Blondel le pidió casamiento a Morena Beltrán en un yate: así fue la romántica propuesta",
         "categoria": "Noticia Nacional",
-        "descripcion": "Desde el gobierno venezolano informaron que la policía respondió contra drones no identificados de forma “disuasiva”; la Casa Blanca aseguró que “Estados Unidos...<br><br><a href='https://www.lanacion.com.ar/el-mundo/venezuela-reportan-disparos-en-caracas-y-una-situacion-irregular-en-los-alrededores-del-palacio-de-nid05012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "A casi dos años de confirmar su relación, el futbolista le pidió matrimonio a su novia delante de sus familiares y amigos; la escena quedó grabada y llenó de am...<br><br><a href='https://www.lanacion.com.ar/espectaculos/lucas-blondel-le-pidio-casamiento-a-morena-beltran-en-un-yate-asi-fue-la-romantica-propuesta-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Noticias del sur de Florida y Miami hoy, en vivo: nuevas leyes, clima y últimas actualizaciones del martes 6 de enero",
+        "titulo": "Cómo activar el “modo Capricornio” de WhatsApp",
         "categoria": "Noticia Nacional",
-        "descripcion": "Noticias de Miami y el Sur de Florida hoy en vivo: nuevas leyes, clima y anuncios de Ron DeSantis. Todas las actualizaciones minuto a minuto de EE.UU. este mart...<br><br><a href='https://www.lanacion.com.ar/estados-unidos/florida/noticias-del-sur-de-florida-y-miami-hoy-en-vivo-nuevas-leyes-clima-y-ultimas-actualizaciones-del-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "El logo de la aplicación puede cambiarse por una imagen alusiva a este signo del Zodíaco; se trata de un cambio estético que se hace a través de un programa lla...<br><br><a href='https://www.lanacion.com.ar/tecnologia/como-activar-el-modo-capricornio-de-whatsapp-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Dólar CCL hoy: a cuánto cotiza este martes 06 de enero",
+        "titulo": "‘Comerás flores’, la perturbadora novela sobre la violencia de género de la que habla toda España",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>Mirá la cotización para la compra y venta del dólar CCL hoy.</li><li>Cotizaciones, evolución, previsiones e información para el cambio de monedas.</li><...<br><br><a href='https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-martes-06-enero_0_X9ePo3JDTa.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>Con su primera ficción, Lucía Solla Sobral logró un impacto inmediato entre lectores y crítica. </li><li>El libro aborda el maltrato psicológico, el due...<br><br><a href='https://www.clarin.com/cultura/comeras-flores-perturbadora-novela-violencia-genero-habla-toda-espana_0_mp5PFcQLs5.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Dólar tarjeta hoy: a cuánto cotiza este martes 06 de enero",
+        "titulo": "Venezuela-Estados Unidos HOY, EN VIVO: la ONU afirma que la operación de captura de Maduro impulsada por Trump \"socavó un principio fundamental del derecho internacional\"",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>Mirá la cotización para la compra y venta del dólar tarjeta hoy.</li><li>Cotizaciones, evolución, previsiones e información para el cambio de monedas.</...<br><br><a href='https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-martes-06-enero_0_qtjeGvKL0m.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>Lo afirmó Ravina Shamdasani, portavoz del Alto Comisionado de la ONU para los Derechos Humanos.</li><li>Tras comparecer ante el tribunal de Nueva York, ...<br><br><a href='https://www.clarin.com/mundo/venezuela-estados-unidos-hoy-vivo-onu-afirma-operacion-captura-maduro-impulsada-trump-socavo-principio-fundamental-derecho-internacional_0_DYEJjuK78H.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Salió a la luz el violento pasado de Tomás Mulinetti, el hombre acusado de asesinar a Delfina Aimino en Año Nuevo",
+        "titulo": "Aumentan los casos de la “supergripe” H3N2 en Argentina y un nuevo dato sobre cómo se contagia genera preocupación",
         "categoria": "Noticia Nacional",
-        "descripcion": "Tomás Mulinetti, acusado de femicidio, recibió una gran cantidad de denuncias públicas por parte de excompañeras.<br><br><a href='https://la100.cienradios.com/sociedad/salio-a-la-luz-el-violento-pasado-de-tomas-mulinetti-el-hombre-acusado-de-asesinar-a-delfina-aimino-en-ano-nuevo/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Ya suman nueve casos en cinco provincias y la mayoría no posee antecedente de viaje al exterior del país.<br><br><a href='https://la100.cienradios.com/salud-y-bienestar/aumentan-los-casos-de-la-supergripe-h3n2-en-argentina-y-un-nuevo-dato-sobre-como-se-contagia-genera-preocupacion/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Sebastián Villa confirmó que quiere jugar en River: “Si Gallardo me llama, viajo ya mismo”",
+        "titulo": "Qué es la jícama, el tubérculo que es furor en la gastronomía",
         "categoria": "Noticia Nacional",
-        "descripcion": "El ex delantero de Boca dejó en claro que su prioridad es jugar en el club de Nuñez.<br><br><a href='https://la100.cienradios.com/deportes/sebastian-villa-confirmo-que-quiere-jugar-en-river-si-gallardo-me-llama-viajo-ya-mismo/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Qué es la jícama, cómo usarla en la cocina y los beneficios para la salud.<br><br><a href='https://la100.cienradios.com/curiosidades/que-es-la-jicama-el-tuberculo-que-es-furor-en-la-gastronomia/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 30,
@@ -1278,5 +1278,133 @@ const BASE_DE_DATOS = [
         "titulo": "Leonel Messi gana su 4to. Balón de Oro.",
         "categoria": "",
         "descripcion": "En París, Francia, gana de manera consecutiva. Actualmente lleva ocho, cifra que lo convierte en el futbolista que más veces ha obtenido este trofeo."
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "Día del Gauchito Gil",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1324 - Muere Marco Polo, explorador italiano.",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1642 - Muere Galileo Galilei, matemático, físico, astrónomo e inventor italiano.",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1935 - Nace el cantante estadounidense apodado “rey del rock and roll” o “el rey”, una de las grandes figuras de la cultura popular del siglo XX. Elvis trabajó en 31 filmes musicales y en dos documentales de conciertos.",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1937 - Nace Shirley Bassey, cantante británica",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1939 - Nace María Carolina Josefina Pacanins Niño más conocida como Carolina Herrera, es una diseñadora de moda y empresaria venezolana, fundadora de su propia marca homónima.",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1942 - Nace en la ciudad inglesa de Oxford el físico y científico británico Stephen Hawking  una de las mentes más brillantes de la historia de la ciencia por sus trabajos sobre las singularidades espaciotemporales en la Teoría de la Relatividad General. Recibió doce doctorados honoris causa de prestigiosas universidades  y la Orden del Mérito británico.",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1947 - En el distrito londinense de Brixton nace el músico, cantante, compositor y actor británico David Bowie, compositor y cantante británico, uno de los artistas más influyentes de la música popular de la segunda mitad del siglo XX. Vendió más de 135 millones de discos.",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1953 - Nace en la ciudad bonaerense de Avellaneda el ex futbolista, uno de los grandes ídolos de Boca Juniors y el jugador que más partidos disputó en el equipo “xeneize” (426).",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1958 - Bobby Fisher con 14 años de edad gana el campeonato de ajedrez de los EEUU.",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1969 -  Nace en Buenos Aires la actriz y cantante, quien se destacó por sus papeles en las series televisivas Socorro, 5° año y Poliladron. Ganó un premio ACE como “artista revelación”.",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1973 - Nace Sean Paul, cantante jamaicano.",
+        "categoria": "",
+        "descripcion": ""
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1975 - Nace Mariana Fabbiani",
+        "categoria": "",
+        "descripcion": "Conductora de televisión argentina."
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1976 - Nace Alexandre Pires",
+        "categoria": "",
+        "descripcion": "Nace en Minas Gerais, Brasil, cantautor y músico brasileño. Participó en la agrupación del estilo pagode llamada Só Pra Contrariar, agrupación a que se unió a fines de los años 1980 y con quienes se dio a conocer."
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1995 - Muere el ex boxeador argentino Carlos Monzón",
+        "categoria": "",
+        "descripcion": "Fallece en un accidente automovilístico."
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "",
+        "titulo": "1998 - Muere Walter Diemer inventor del chicle en 1928.",
+        "categoria": "",
+        "descripcion": ""
     }
 ];
