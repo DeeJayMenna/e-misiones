@@ -27,6 +27,22 @@ const BASE_DE_DATOS = [
         "dia": 6,
         "mes": 1,
         "anio": 2026,
+        "titulo": "Misiones: el Código Procesal Penal Federal entrará en vigencia en agosto",
+        "categoria": "Noticia Local",
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"581\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2022/12/Camara-Federal-de-Apelac...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072079/misiones-el-codigo-procesal-penal-federal-entrara-en-vigencia-en-agosto/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": 2026,
+        "titulo": "Alexis Ferszter, el chico “prodigio” de Ruiz de Montoya",
+        "categoria": "Noticia Local",
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"641\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/Ruiz-de-Montoya-dibujant...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072031/alexis-ferszter-joven-dibujante-realista-region-flores/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": 2026,
         "titulo": "El cine argentino sueña con el Oscar: “Belén” pasó el primer corte",
         "categoria": "Noticia Local",
         "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"547\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/Belen-pelicula-argentina...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072078/el-cine-argentino-suena-con-el-oscar-belen-paso-el-primer-corte/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
@@ -35,17 +51,9 @@ const BASE_DE_DATOS = [
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Sebastián Villa quiere jugar en River: “Si me llama Gallardo, mañana mismo viajo”",
-        "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"695\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/GYQJ3CUNTFBMP4ML5NQSQ7K7...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072058/sebastian-villa-quiere-jugar-en-river-si-me-llama-gallardo-manana-mismo-viajo/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
-    },
-    {
-        "dia": 6,
-        "mes": 1,
-        "anio": 2026,
-        "titulo": "El presidente colombiano llama a la calle y eleva el tono frente a EEUU",
-        "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"563\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/petro.jpg\" style=\"displa...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072074/petro-convoca-marcha-colombia-tension-estados-unidos/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "titulo": "Andrés Malamud explicó por qué Corina Machado “no es para este momento” de Venezuela: “No participa de la negociación”",
+        "categoria": "Noticia Nacional",
+        "descripcion": "El analista político internacional sostuvo en diálogo con LN+ que, “los principales referentes políticos de EE.UU. tienen visiones encontradas”; “Este no es el ...<br><br><a href='https://www.lanacion.com.ar/sociedad/andres-malamud-explico-por-que-corina-machado-no-es-para-este-momento-de-venezuela-no-participa-de-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
@@ -53,47 +61,39 @@ const BASE_DE_DATOS = [
         "anio": 2026,
         "titulo": "Lucas Blondel le pidió casamiento a Morena Beltrán en un yate: así fue la romántica propuesta",
         "categoria": "Noticia Nacional",
-        "descripcion": "A casi dos años de confirmar su relación, el futbolista le pidió matrimonio a su novia delante de sus familiares y amigos; la escena quedó grabada y llenó de am...<br><br><a href='https://www.lanacion.com.ar/espectaculos/lucas-blondel-le-pidio-casamiento-a-morena-beltran-en-un-yate-asi-fue-la-romantica-propuesta-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "A casi dos años de confirmar su relación, el futbolista de Boca Juniors le pidió matrimonio a su novia delante de sus familiares; la escena quedó grabada y llen...<br><br><a href='https://www.lanacion.com.ar/espectaculos/lucas-blondel-le-pidio-casamiento-a-morena-beltran-en-un-yate-asi-fue-la-romantica-propuesta-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Cómo activar el “modo Capricornio” de WhatsApp",
+        "titulo": "El \"Abuelo\", el árbol argentino de 2600 años que sigue en pie",
         "categoria": "Noticia Nacional",
-        "descripcion": "El logo de la aplicación puede cambiarse por una imagen alusiva a este signo del Zodíaco; se trata de un cambio estético que se hace a través de un programa lla...<br><br><a href='https://www.lanacion.com.ar/tecnologia/como-activar-el-modo-capricornio-de-whatsapp-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>Tiene casi sesenta metros de altura, está prohibido tocarlo y para verlo primero hay que someterse a una desinfección. </li><li>Es patrimonio de la Huma...<br><br><a href='https://www.clarin.com/internacional/abuelo-arbol-argentino-2600-anos-sigue-pie_0_rEZAXcH199.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "‘Comerás flores’, la perturbadora novela sobre la violencia de género de la que habla toda España",
+        "titulo": "Subió a YouTube un video de 10 horas de una chimenea encendida y ya ganó un millón de dólares",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>Con su primera ficción, Lucía Solla Sobral logró un impacto inmediato entre lectores y crítica. </li><li>El libro aborda el maltrato psicológico, el due...<br><br><a href='https://www.clarin.com/cultura/comeras-flores-perturbadora-novela-violencia-genero-habla-toda-espana_0_mp5PFcQLs5.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>Ya generó 160 millones de visualizaciones en menos de 10 años.</li><li>Ya obtuvo más de un millón de dólares en ingresos publicitarios.</li></ul><br><br><a href='https://www.clarin.com/internacional/subio-youtube-video-10-horas-chimenea-encendida-gano-millon-dolares_0_gyOEaNWhMI.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Venezuela-Estados Unidos HOY, EN VIVO: la ONU afirma que la operación de captura de Maduro impulsada por Trump \"socavó un principio fundamental del derecho internacional\"",
+        "titulo": "Horror en Merlo: una patota mató a golpes a un joven de 29 años a plena luz del día",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>Lo afirmó Ravina Shamdasani, portavoz del Alto Comisionado de la ONU para los Derechos Humanos.</li><li>Tras comparecer ante el tribunal de Nueva York, ...<br><br><a href='https://www.clarin.com/mundo/venezuela-estados-unidos-hoy-vivo-onu-afirma-operacion-captura-maduro-impulsada-trump-socavo-principio-fundamental-derecho-internacional_0_DYEJjuK78H.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "En Merlo un grupo de personas mató a golpes a un joven luego de una discusión vecinal.<br><br><a href='https://la100.cienradios.com/sociedad/horror-en-merlo-una-patota-mato-a-golpes-a-un-joven-de-29-anos-a-plena-luz-del-dia/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Aumentan los casos de la “supergripe” H3N2 en Argentina y un nuevo dato sobre cómo se contagia genera preocupación",
+        "titulo": "Benjamín Vicuña reveló el nuevo emprendimiento de su hija Magnolia en medio de sus vacaciones",
         "categoria": "Noticia Nacional",
-        "descripcion": "Ya suman nueve casos en cinco provincias y la mayoría no posee antecedente de viaje al exterior del país.<br><br><a href='https://la100.cienradios.com/salud-y-bienestar/aumentan-los-casos-de-la-supergripe-h3n2-en-argentina-y-un-nuevo-dato-sobre-como-se-contagia-genera-preocupacion/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
-    },
-    {
-        "dia": 6,
-        "mes": 1,
-        "anio": 2026,
-        "titulo": "Qué es la jícama, el tubérculo que es furor en la gastronomía",
-        "categoria": "Noticia Nacional",
-        "descripcion": "Qué es la jícama, cómo usarla en la cocina y los beneficios para la salud.<br><br><a href='https://la100.cienradios.com/curiosidades/que-es-la-jicama-el-tuberculo-que-es-furor-en-la-gastronomia/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Benjamín Vicuña habló con Moria Casán sobre el emprendimiento de su hija Magnolia en medio de las vacaciones y se disparó la pregunta sobre su futuro.<br><br><a href='https://la100.cienradios.com/espectaculos/benjamin-vicuna-revelo-el-nuevo-emprendimiento-de-su-hija-magnolia-en-medio-de-sus-vacaciones/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 30,
@@ -1132,7 +1132,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "",
         "titulo": "Dia del coleccionista",
-        "categoria": "",
+        "categoria": "Celebraciones",
         "descripcion": ""
     },
     {
@@ -1140,7 +1140,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "",
         "titulo": "Día del Sello Postal",
-        "categoria": "",
+        "categoria": "Celebraciones",
         "descripcion": "Debido a que ese día nació Heinrich Stephan, personaje que organizo el sistema postal de Alemania y además fue el fundador de la Unión Postal Universal (UPU)."
     },
     {
@@ -1148,23 +1148,15 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "",
         "titulo": "Día de la Simpatía",
-        "categoria": "",
+        "categoria": "Celebraciones",
         "descripcion": "La simpatía es una conjunción de sentimientos positivos, de afecto que uno puede sentir por alguien o algo, o la forma de ser de alguién que hace que agrade a los demás. Sentir simpatía por alguien nos atrae a esa persona, quizás por su carácter o por algún gesto como la risa, la sonrisa o el estado de ánimo."
     },
     {
         "dia": 7,
         "mes": 1,
-        "anio": "",
-        "titulo": "",
-        "categoria": "",
-        "descripcion": ""
-    },
-    {
-        "dia": 7,
-        "mes": 1,
         "anio": "1714",
-        "titulo": "Henry Mill patenta la máquina de escribir (que se fabrica años después).",
-        "categoria": "",
+        "titulo": "Henry Mill patenta la máquina de escribir",
+        "categoria": "Internacional",
         "descripcion": ""
     },
     {
@@ -1172,15 +1164,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "1768",
         "titulo": "Nace José Bonaparte (Pepe Botella).",
-        "categoria": "",
-        "descripcion": ""
-    },
-    {
-        "dia": 7,
-        "mes": 1,
-        "anio": "1797",
-        "titulo": "Consagración de la bandera tricolor italiana (verde, blanco y rojo) en el Congreso de Reggio, en la Emilia.",
-        "categoria": "",
+        "categoria": "Internacional",
         "descripcion": ""
     },
     {
@@ -1188,7 +1172,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "1928",
         "titulo": "Nace Ante Garmaz",
-        "categoria": "",
+        "categoria": "Nacional",
         "descripcion": "Modisto, actor, modelo y presentador de televisión croata nacionalizado argentino. (f. 16 de julio de 2011)"
     },
     {
@@ -1196,7 +1180,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "1929",
         "titulo": "Aparece «Tarzan», una de las primeras historietas de aventuras.",
-        "categoria": "",
+        "categoria": "Internacional",
         "descripcion": ""
     },
     {
@@ -1204,7 +1188,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "1934",
         "titulo": "Se publica la historieta Flash Gordon.",
-        "categoria": "",
+        "categoria": "Internacional",
         "descripcion": "Se publica en Nueva York, Estados Unidos, por primera vez la historieta de ciencia ficción que rápidamente se convirtió en un éxito del cine y la televisión."
     },
     {
@@ -1212,7 +1196,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "1943",
         "titulo": "Fallece Nikola Tesla",
-        "categoria": "",
+        "categoria": "Internacional",
         "descripcion": "Inventor e ingeniero serbio-estadounidense. Inventor, ingeniero mecánico, eléctrico y físico serbocroata."
     },
     {
@@ -1220,7 +1204,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "1950",
         "titulo": "Nace Alberto Aguilera Valadez conocido como Juan Gabriel.",
-        "categoria": "",
+        "categoria": "Internacional",
         "descripcion": "Actor, cantautor, compositor, productor y filántropo mexicano Alberto Aguilera Valadez."
     },
     {
@@ -1228,7 +1212,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "1952",
         "titulo": "Nace Valeria Lynch",
-        "categoria": "",
+        "categoria": "Nacional",
         "descripcion": "Cantante y actriz argentina. Nace en Buenos Aires. Una de las cantantes más importantes del país. Con más de 50 años de carrera es una de las artistas más destacadas de la música popular argentina."
     },
     {
@@ -1236,7 +1220,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "1964",
         "titulo": "Nace Nicolas Cage",
-        "categoria": "",
+        "categoria": "Internacional",
         "descripcion": "Actor de cine estadounidense."
     },
     {
@@ -1244,7 +1228,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "1980",
         "titulo": "Se emite el último capítulo del El Chavo del 8.",
-        "categoria": "",
+        "categoria": "Internacional",
         "descripcion": "En México se emite el último capítulo, el número 290, de una de las series más exitosas de la televisión."
     },
     {
@@ -1252,7 +1236,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "1985",
         "titulo": "Nace Lewis Hamilton",
-        "categoria": "",
+        "categoria": "Internacional",
         "descripcion": "Piloto automovilismo británico. 7 veces campeón en Fórmula 1."
     },
     {
@@ -1260,7 +1244,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "1988",
         "titulo": "Nace Hardwell",
-        "categoria": "",
+        "categoria": "Internacional",
         "descripcion": "DJ y productor holandés."
     },
     {
@@ -1268,7 +1252,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "2007",
         "titulo": "Debuta Fernando Gago en el Real Madrid",
-        "categoria": "",
+        "categoria": "Nacional",
         "descripcion": "El futbolista argentino debuta oficialmente con la camiseta del Real Madrid, el club español en el que jugó un total de 113 partidos."
     },
     {
@@ -1276,7 +1260,7 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "2013",
         "titulo": "Leonel Messi gana su 4to. Balón de Oro.",
-        "categoria": "",
+        "categoria": "Nacional",
         "descripcion": "En París, Francia, gana de manera consecutiva. Actualmente lleva ocho, cifra que lo convierte en el futbolista que más veces ha obtenido este trofeo."
     },
     {
@@ -1284,127 +1268,111 @@ const BASE_DE_DATOS = [
         "mes": 1,
         "anio": "",
         "titulo": "Día del Gauchito Gil",
-        "categoria": "",
+        "categoria": "Celebraciones",
         "descripcion": ""
     },
     {
         "dia": 8,
         "mes": 1,
-        "anio": "",
-        "titulo": "1324 - Muere Marco Polo, explorador italiano.",
-        "categoria": "",
+        "anio": "1324",
+        "titulo": "Muere Marco Polo",
+        "categoria": "Internacional",
+        "descripcion": "Explorador italiano."
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "1642",
+        "titulo": "Muere Galileo Galilei",
+        "categoria": "Internacional",
+        "descripcion": "Matemático, físico, astrónomo e inventor italiano."
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "1935",
+        "titulo": "Nace Elvis Presley",
+        "categoria": "Internacional",
+        "descripcion": "Cantante estadounidense apodado “rey del rock and roll” o “el rey”, una de las grandes figuras de la cultura popular del siglo XX. Elvis trabajó en 31 filmes musicales y en dos documentales de conciertos."
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "1937",
+        "titulo": "Nace Shirley Bassey, cantante británica",
+        "categoria": "Internacional",
         "descripcion": ""
     },
     {
         "dia": 8,
         "mes": 1,
-        "anio": "",
-        "titulo": "1642 - Muere Galileo Galilei, matemático, físico, astrónomo e inventor italiano.",
-        "categoria": "",
+        "anio": "1939",
+        "titulo": "Nace Carolina Herrera",
+        "categoria": "Internacional",
+        "descripcion": "María Carolina Josefina Pacanins Niño conocida como Carolina Herrera, es una diseñadora de moda y empresaria venezolana, fundadora de su propia marca homónima."
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "1942",
+        "titulo": "Nace Stephen Hawking.",
+        "categoria": "Internacional",
+        "descripcion": "Nace en la ciudad inglesa de Oxford el físico y científico británico Stephen Hawking una de las mentes más brillantes de la historia de la ciencia por sus trabajos sobre las singularidades espaciotemporales en la Teoría de la Relatividad General. Recibió doce doctorados honoris causa de prestigiosas universidades y la Orden del Mérito británico. (f. 14 de marzo de 2018)"
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "1947",
+        "titulo": "Nace David Bowie",
+        "categoria": "Internacional",
+        "descripcion": "En Brixton Inglaterra nace el músico, cantante, compositor y actor David Bowie, uno de los artistas más influyentes de la música popular de la segunda mitad del siglo XX. Vendió más de 135 millones de discos."
+    },
+    {
+        "dia": 8,
+        "mes": 1,
+        "anio": "1958",
+        "titulo": "Bobby Fisher con 14 años de edad gana el campeonato de ajedrez de los EEUU.",
+        "categoria": "Internacional",
         "descripcion": ""
     },
     {
         "dia": 8,
         "mes": 1,
-        "anio": "",
-        "titulo": "1935 - Nace el cantante estadounidense apodado “rey del rock and roll” o “el rey”, una de las grandes figuras de la cultura popular del siglo XX. Elvis trabajó en 31 filmes musicales y en dos documentales de conciertos.",
-        "categoria": "",
-        "descripcion": ""
+        "anio": "1973",
+        "titulo": "Nace Sean Paul",
+        "categoria": "Internacional",
+        "descripcion": "Cantante jamaicano."
     },
     {
         "dia": 8,
         "mes": 1,
-        "anio": "",
-        "titulo": "1937 - Nace Shirley Bassey, cantante británica",
-        "categoria": "",
-        "descripcion": ""
-    },
-    {
-        "dia": 8,
-        "mes": 1,
-        "anio": "",
-        "titulo": "1939 - Nace María Carolina Josefina Pacanins Niño más conocida como Carolina Herrera, es una diseñadora de moda y empresaria venezolana, fundadora de su propia marca homónima.",
-        "categoria": "",
-        "descripcion": ""
-    },
-    {
-        "dia": 8,
-        "mes": 1,
-        "anio": "",
-        "titulo": "1942 - Nace en la ciudad inglesa de Oxford el físico y científico británico Stephen Hawking  una de las mentes más brillantes de la historia de la ciencia por sus trabajos sobre las singularidades espaciotemporales en la Teoría de la Relatividad General. Recibió doce doctorados honoris causa de prestigiosas universidades  y la Orden del Mérito británico.",
-        "categoria": "",
-        "descripcion": ""
-    },
-    {
-        "dia": 8,
-        "mes": 1,
-        "anio": "",
-        "titulo": "1947 - En el distrito londinense de Brixton nace el músico, cantante, compositor y actor británico David Bowie, compositor y cantante británico, uno de los artistas más influyentes de la música popular de la segunda mitad del siglo XX. Vendió más de 135 millones de discos.",
-        "categoria": "",
-        "descripcion": ""
-    },
-    {
-        "dia": 8,
-        "mes": 1,
-        "anio": "",
-        "titulo": "1953 - Nace en la ciudad bonaerense de Avellaneda el ex futbolista, uno de los grandes ídolos de Boca Juniors y el jugador que más partidos disputó en el equipo “xeneize” (426).",
-        "categoria": "",
-        "descripcion": ""
-    },
-    {
-        "dia": 8,
-        "mes": 1,
-        "anio": "",
-        "titulo": "1958 - Bobby Fisher con 14 años de edad gana el campeonato de ajedrez de los EEUU.",
-        "categoria": "",
-        "descripcion": ""
-    },
-    {
-        "dia": 8,
-        "mes": 1,
-        "anio": "",
-        "titulo": "1969 -  Nace en Buenos Aires la actriz y cantante, quien se destacó por sus papeles en las series televisivas Socorro, 5° año y Poliladron. Ganó un premio ACE como “artista revelación”.",
-        "categoria": "",
-        "descripcion": ""
-    },
-    {
-        "dia": 8,
-        "mes": 1,
-        "anio": "",
-        "titulo": "1973 - Nace Sean Paul, cantante jamaicano.",
-        "categoria": "",
-        "descripcion": ""
-    },
-    {
-        "dia": 8,
-        "mes": 1,
-        "anio": "",
-        "titulo": "1975 - Nace Mariana Fabbiani",
-        "categoria": "",
+        "anio": "1975",
+        "titulo": "Nace Mariana Fabbiani",
+        "categoria": "Nacional",
         "descripcion": "Conductora de televisión argentina."
     },
     {
         "dia": 8,
         "mes": 1,
-        "anio": "",
-        "titulo": "1976 - Nace Alexandre Pires",
-        "categoria": "",
+        "anio": "1976",
+        "titulo": "Nace Alexandre Pires",
+        "categoria": "Internacional",
         "descripcion": "Nace en Minas Gerais, Brasil, cantautor y músico brasileño. Participó en la agrupación del estilo pagode llamada Só Pra Contrariar, agrupación a que se unió a fines de los años 1980 y con quienes se dio a conocer."
     },
     {
         "dia": 8,
         "mes": 1,
-        "anio": "",
-        "titulo": "1995 - Muere el ex boxeador argentino Carlos Monzón",
-        "categoria": "",
+        "anio": "1995",
+        "titulo": "Muere el ex boxeador argentino Carlos Monzón",
+        "categoria": "Nacional",
         "descripcion": "Fallece en un accidente automovilístico."
     },
     {
         "dia": 8,
         "mes": 1,
-        "anio": "",
-        "titulo": "1998 - Muere Walter Diemer inventor del chicle en 1928.",
-        "categoria": "",
-        "descripcion": ""
+        "anio": "1998",
+        "titulo": "Muere Walter Diemer",
+        "categoria": "Internacional",
+        "descripcion": "Inventor del chicle en 1928."
     }
 ];
