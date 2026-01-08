@@ -1,7 +1,0 @@
-Google Sheets API
-469fe6abdbfe625136668b10d725f91f9de910b8
-
-Google Drive API
-
-
-robot-efemerides@imagenes-482012.iam.gserviceaccount.com
