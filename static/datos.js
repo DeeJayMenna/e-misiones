@@ -1,99 +1,99 @@
 const BASE_DE_DATOS = [
     {
-        "dia": 6,
+        "dia": 8,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Liga Nacional | OTC tendrá esta noche el primer juego del año ante Regatas",
+        "titulo": "Franco Rioja será el árbitro para el duelo entre Guaraní y Estudio Galeano por el Torneo Regional",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"200\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-...<br><br><a href='https://misionesonline.net/2026/01/06/liga-nacional-otc-tendra-esta-noche-el-primer-juego-del-ano-ante-regatas/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"194\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-...<br><br><a href='https://misionesonline.net/?p=1000001655444&preview=true&preview_id=1000001655444' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 6,
+        "dia": 8,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Puerto Rico: murió un trabajador que había sido electrocutado mientras descargaba un camión",
+        "titulo": "Visión Misionera 2026 | Salud privada en Misiones: empresas anticipan más inversiones y advierten sobre costos, impuestos y financiamiento",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"206\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-...<br><br><a href='https://misionesonline.net/2026/01/06/puerto-rico-murio-un-trabajador-que-habia-sido-electrocutado-mientras-descargaba-un-camion/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"Empresas de salud\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"169\" src=\"https://static.misionesonline.news/wp-content/uploads/2024/01/salud-...<br><br><a href='https://misionesonline.net/2026/01/08/salud-privada-en-misiones-vision-misionera-2026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 6,
+        "dia": 8,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Protestas en Irán: crece la represión y ya hay al menos 35 muertos y más de 1.200 detenidos",
+        "titulo": "Armado y borracho iba a “arreglar cuentas”: su pareja lo denunció y fue detenido en Aristóbulo del Valle",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"protestas en iran\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"172\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/iran-p...<br><br><a href='https://misionesonline.net/2026/01/06/protestas-en-iran-4/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"197\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-...<br><br><a href='https://misionesonline.net/2026/01/08/armado-y-borracho-iba-a-arreglar-cuentas-su-pareja-lo-denuncio-y-fue-detenido-en-aristobulo-del-valle/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 6,
+        "dia": 8,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Verano y cáncer: cuidados clave para proteger la piel durante el tratamiento",
+        "titulo": "Puerto Esperanza sigue brindando mudanza gratuita a jóvenes que estudian otras localidades",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"586\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/tratamiento_oncologico_0...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072117/verano-cancer-cuidados-piel-tratamiento-oncologico/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"565\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/mudanza-estudiantes-puer...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072660/puerto-esperanza-sigue-brindando-mudanza-gratuita-a-jovenes-que-estudian-otras-localidades/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 6,
+        "dia": 8,
         "mes": 1,
         "anio": 2026,
-        "titulo": "El Ballet Neoclásico Posadas lanza seminario y escuela de formación",
+        "titulo": "EEUU cambia su política alimentaria y apunta contra los ultraprocesados",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"588\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/Ballet-Neoclasico-Posada...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072063/el-ballet-neoclasico-posadas-lanza-seminario-y-escuela-de-formacion/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"667\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/ULTRAPROCESADOS.jpg\" sty...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072705/eeuu-cambio-politica-alimentaria-ultraprocesados/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 6,
+        "dia": 8,
         "mes": 1,
         "anio": 2026,
-        "titulo": "El “infierno” de Nueva York: dónde y cómo está detenido Nicolás Maduro",
+        "titulo": "La parroquia San Juan Neumann de San Vicente se prepara para su fiesta patronal",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"560\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/El-infierno-carcel-Madur...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072091/el-infierno-de-nueva-york-donde-y-como-esta-detenido-nicolas-maduro/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"563\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/Parroquia-San-Juan-Neuma...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072680/la-parroquia-san-juan-neumann-de-san-vicente-se-prepara-para-su-fiesta-patronal/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 6,
+        "dia": 8,
         "mes": 1,
         "anio": 2026,
-        "titulo": "El colapso de Venezuela terminó impactando en el campo y la agroindustria de la Argentina",
+        "titulo": "“Fue un verso”: el peón que alertó sobre los prófugos del triple crimen de General Rodríguez nunca cobró la recompensa",
         "categoria": "Noticia Nacional",
-        "descripcion": "Las exportaciones agroindustriales cayeron un 85% en 12 años; el país vendía leche en polvo, maíz, carne, entre otros productos<br><br><a href='https://www.lanacion.com.ar/economia/campo/el-colapso-de-venezuela-termino-impactando-en-el-campo-y-la-agroindustria-de-la-argentina-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "A diez años de la fuga que conmocionó al país, el chacarero que dio el dato clave denuncia que nunca recibió la recompensa millonaria prometida<br><br><a href='https://www.lanacion.com.ar/seguridad/fue-un-verso-el-peon-que-alerto-sobre-los-profugos-del-triple-crimen-de-general-rodriguez-nunca-nid08012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 6,
+        "dia": 8,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Lucas Blondel le pidió casamiento a Morena Beltrán en un yate: así fue la romántica propuesta",
+        "titulo": "El secreto detrás de la asociación que logra que los jóvenes vuelvan a creer en sí mismos: “Pueden ser profesionales”",
         "categoria": "Noticia Nacional",
-        "descripcion": "A casi dos años de confirmar su relación, el futbolista de Boca Juniors le pidió matrimonio a su novia delante de sus familiares; la escena quedó grabada y llen...<br><br><a href='https://www.lanacion.com.ar/espectaculos/lucas-blondel-le-pidio-casamiento-a-morena-beltran-en-un-yate-asi-fue-la-romantica-propuesta-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Damaris, de 27 años, y su hermana Selena, de 19, ingresaron al mundo del empleo formal gracias a las capacitaciones de la ONG De La Nada; ¿qué necesitan los chi...<br><br><a href='https://www.lanacion.com.ar/comunidad/el-secreto-detras-de-la-asociacion-que-logra-que-los-jovenes-vuelvan-a-creer-en-si-mismos-pueden-ser-nid07012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 6,
+        "dia": 8,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Rusia ofreció una vez a Estados Unidos el control de Venezuela a cambio de vía libre en Ucrania",
+        "titulo": "Donald Trump propone un incremento astronómico del gasto de defensa para enfrentar \"tiempos peligrosos\"",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>La oferta de intercambio fue relatada en su momento en una declaración ante el Congreso por Fiona Hill, que se encargó de los asuntos rusos y europeos e...<br><br><a href='https://www.clarin.com/new-york-times-international-weekly/rusia-ofrecio-vez-estados-unidos-control-venezuela-cambio-via-libre-ucrania_0_iPQzsdzo22.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>El presidente de EE.UU. quiere aumentar el presupuesto militar a 1,5 billones de dólares para 2027. Para este año se prevé un gasto de 901.000 millones....<br><br><a href='https://www.clarin.com/mundo/donald-trump-propone-incremento-astronomico-gasto-defensa-enfrentar-tiempos-peligrosos_0_WXXfCZL51I.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 6,
+        "dia": 8,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Trágico incendio en un geriátrico de Olavarría: dos muertos y 37 heridos",
+        "titulo": "Península Valdés: cerraron los miradores para avistaje de ballenas en plena temporada por un conflicto con los dueños de las tierras",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>El fuego comenzó durante la noche del lunes. Hay un bombero internado en terapia intensiva.</li></ul><br><br><a href='https://www.clarin.com/sociedad/tragico-incendio-geriatrico-olavarria-muertos-37-heridos_0_ENfgjXnAmG.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>Susana Cereijo, apoderada de la familia Ferro, cerró las conversaciones con representantes del turismo en la zona.</li><li>Afirman que pedía 7 mil dólar...<br><br><a href='https://www.clarin.com/sociedad/peninsula-valdes-cerraron-miradores-avistaje-ballenas-plena-temporada-conflicto-duenos-tierras_0_WZUWm8hOit.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 6,
+        "dia": 8,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Encontraron muerta a Jayne Trcka, la famosa culturista que interpretó a la señorita Mann en ‘Scary Movie’",
+        "titulo": "Confirmaron la causa de muerte de James Ransone, el reconocido actor de The Wire",
         "categoria": "Noticia Nacional",
-        "descripcion": "Jayne Trcka fue hallada sin vida en su casa de San Diego; el forense confirmó el deceso y su hijo dijo a TMZ que murió el 12 de diciembre a los 62 años.<br><br><a href='https://la100.cienradios.com/espectaculos/encontraron-muerta-a-jayne-trcka-la-famosa-culturista-que-interpreto-a-la-senorita-mann-en-scary-movie/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "James Ransone falleció a los 46 años en Los Ángeles; el certificado oficial confirmó la causa de muerte.<br><br><a href='https://la100.cienradios.com/mundo/confirmaron-la-causa-de-muerte-de-james-ransone-el-reconocido-actor-de-the-wire/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
-        "dia": 6,
+        "dia": 8,
         "mes": 1,
         "anio": 2026,
-        "titulo": "El explosivo rating de MasterChef Celebrity en la primera gala de eliminación del año",
+        "titulo": "La letal frase de Sabrina Rojas sobre el rumor de infidelidad de Luciano Castro a Griselda Siciliani",
         "categoria": "Noticia Nacional",
-        "descripcion": "MasterChef Celebrity tuvo una nueva gala de eliminación y el rating explotó: quién fue el eliminado.<br><br><a href='https://la100.cienradios.com/espectaculos/el-explosivo-rating-de-masterchef-celebrity-en-la-primera-gala-de-eliminacion-del-ano/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Se confirmó la infidelidad de Luciano Castro a Griselda Siciliani y Sabrina Rojas lanzó una frase letal.<br><br><a href='https://la100.cienradios.com/espectaculos/la-letal-frase-de-sabrina-rojas-sobre-el-rumor-de-infidelidad-de-luciano-castro-a-griselda-siciliani/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 30,
@@ -1374,5 +1374,149 @@ const BASE_DE_DATOS = [
         "titulo": "Muere Walter Diemer",
         "categoria": "Internacional",
         "descripcion": "Inventor del chicle en 1928."
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "",
+        "titulo": "Día del Ascenso en Globo.",
+        "categoria": "Celebraciones",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "",
+        "titulo": "Día Mundial de la Electricidad Estática",
+        "categoria": "Celebraciones",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "",
+        "titulo": "Día de los Mártires.",
+        "categoria": "Santoral",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "1872",
+        "titulo": "Brasil y Paraguay firman la paz, tras la Guerra de la Triple Alianza.",
+        "categoria": "Internacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "1913",
+        "titulo": "Nace Richard Nixon, ex presidente de Estados Unidos.",
+        "categoria": "Internacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "1927",
+        "titulo": "Nace el periodista y escritor argentino Rodolfo Walsh.",
+        "categoria": "Nacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "1944",
+        "titulo": "Nace Hugo Moyano, dirigente gremial argentino.",
+        "categoria": "Nacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "1951",
+        "titulo": "Inauguración oficial de la sede de la Organización de las Naciones Unidas en Nueva York.",
+        "categoria": "Internacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "1954",
+        "titulo": "IBM presenta la primera calculadora de circuitos integrados o cerebro electrónico, en Nueva York.",
+        "categoria": "Internacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "1957",
+        "titulo": "Nace el político y abogado argentino Aníbal Fernández.",
+        "categoria": "Nacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "1967",
+        "titulo": "Nace el exfutbolista argentino Claudio Paul “el Pájaro” Caniggia.",
+        "categoria": "Nacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "1967",
+        "titulo": "Nace el músico sudafricano-estadounidense Dave Matthews, líder de Dave Matthews Band.",
+        "categoria": "Internacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "1969",
+        "titulo": "El Concorde hace su primer vuelo de prueba.",
+        "categoria": "Internacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "1992",
+        "titulo": "La República Serbia de Bosnia se declara como República independiente de Bosnia-Herzegovina.",
+        "categoria": "Internacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "2007",
+        "titulo": "En los Estados Unidos, Steve Jobs comunica el lanzamiento del iPhone.",
+        "categoria": "Internacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "2017",
+        "titulo": "Muere el exfutbolista paraguayo Roberto Cabañas.",
+        "categoria": "Internacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "2017",
+        "titulo": "Primera entrega de los Premio The Best FIFA de la Historia",
+        "categoria": "Internacional",
+        "descripcion": ""
+    },
+    {
+        "dia": 9,
+        "mes": 1,
+        "anio": "2020",
+        "titulo": "Fallece la primera persona por COVID-19 en el mundo.",
+        "categoria": "Internacional",
+        "descripcion": ""
     }
 ];

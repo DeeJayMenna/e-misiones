@@ -1,0 +1,10 @@
+# Bloquear credenciales
+credentials.json
+*.json
+!efemerides.json
+ProyectoGoogleSheets/credentials.json
+
+# Carpetas basura
+__pycache__/
+venv/
+*.pyc
