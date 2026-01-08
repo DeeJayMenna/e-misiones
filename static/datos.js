@@ -3,81 +3,89 @@ const BASE_DE_DATOS = [
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Borrador automático",
+        "titulo": "Liga Nacional | OTC tendrá esta noche el primer juego del año ante Regatas",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"207\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/sebastian-villa-1-300x2...<br><br><a href='https://misionesonline.net/?p=1000001654743&preview=true&preview_id=1000001654743' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"200\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-...<br><br><a href='https://misionesonline.net/2026/01/06/liga-nacional-otc-tendra-esta-noche-el-primer-juego-del-ano-ante-regatas/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Tras declararse inocente, cómo sigue la causa contra Maduro en la Justicia estadounidense",
+        "titulo": "Puerto Rico: murió un trabajador que había sido electrocutado mientras descargaba un camión",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"maduro\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"169\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/maduro-1-300x169....<br><br><a href='https://misionesonline.net/2026/01/06/como-sigue-la-causa-contra-maduro/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"206\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-...<br><br><a href='https://misionesonline.net/2026/01/06/puerto-rico-murio-un-trabajador-que-habia-sido-electrocutado-mientras-descargaba-un-camion/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Motociclista chocó un perro y sufrió lesiones graves tras despistar: debió ser trasladado de urgencia al Samic de Eldorado",
+        "titulo": "Protestas en Irán: crece la represión y ya hay al menos 35 muertos y más de 1.200 detenidos",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"199\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-...<br><br><a href='https://misionesonline.net/2026/01/06/motociclista-choco-un-perro-y-sufrio-lesiones-graves-tras-despistar/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"protestas en iran\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"172\" src=\"https://static.misionesonline.news/wp-content/uploads/2026/01/iran-p...<br><br><a href='https://misionesonline.net/2026/01/06/protestas-en-iran-4/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en MisionesOnline <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Misiones: el Código Procesal Penal Federal entrará en vigencia en agosto",
+        "titulo": "Verano y cáncer: cuidados clave para proteger la piel durante el tratamiento",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"581\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2022/12/Camara-Federal-de-Apelac...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072079/misiones-el-codigo-procesal-penal-federal-entrara-en-vigencia-en-agosto/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"586\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/tratamiento_oncologico_0...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072117/verano-cancer-cuidados-piel-tratamiento-oncologico/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Alexis Ferszter, el chico “prodigio” de Ruiz de Montoya",
+        "titulo": "El Ballet Neoclásico Posadas lanza seminario y escuela de formación",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"641\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/Ruiz-de-Montoya-dibujant...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072031/alexis-ferszter-joven-dibujante-realista-region-flores/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"588\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/Ballet-Neoclasico-Posada...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072063/el-ballet-neoclasico-posadas-lanza-seminario-y-escuela-de-formacion/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "El cine argentino sueña con el Oscar: “Belén” pasó el primer corte",
+        "titulo": "El “infierno” de Nueva York: dónde y cómo está detenido Nicolás Maduro",
         "categoria": "Noticia Local",
-        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"547\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/Belen-pelicula-argentina...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072078/el-cine-argentino-suena-con-el-oscar-belen-paso-el-primer-corte/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"560\" src=\"https://www.primeraedicion.com.ar/wp-content/uploads/2026/01/El-infierno-carcel-Madur...<br><br><a href='https://www.primeraedicion.com.ar/nota/101072091/el-infierno-de-nueva-york-donde-y-como-esta-detenido-nicolas-maduro/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Primera Edición <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Venezuela hoy, en vivo: Nicolás Maduro en EE.UU. y los últimos anuncios de Donald Trump, minuto a minuto",
+        "titulo": "El colapso de Venezuela terminó impactando en el campo y la agroindustria de la Argentina",
         "categoria": "Noticia Nacional",
-        "descripcion": "Las repercusiones de la captura del mandatario venezolano, los mensajes en el mundo y las últimas noticias<br><br><a href='https://www.lanacion.com.ar/el-mundo/venezuela-hoy-en-vivo-nicolas-maduro-en-eeuu-y-los-ultimos-anuncios-de-donald-trump-minuto-a-minuto-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "Las exportaciones agroindustriales cayeron un 85% en 12 años; el país vendía leche en polvo, maíz, carne, entre otros productos<br><br><a href='https://www.lanacion.com.ar/economia/campo/el-colapso-de-venezuela-termino-impactando-en-el-campo-y-la-agroindustria-de-la-argentina-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Un automóvil volcó y se incendió en Entre Ríos tras chocar contra el guardarraíl: cuatro muertos",
+        "titulo": "Lucas Blondel le pidió casamiento a Morena Beltrán en un yate: así fue la romántica propuesta",
         "categoria": "Noticia Nacional",
-        "descripcion": "En el incidente solo hubo una sobreviviente que viajaba en el mismo vehículo, una adolescente de 17 años que permanece internada en grave estado<br><br><a href='https://www.lanacion.com.ar/seguridad/un-automovil-volco-y-se-incendio-tras-chocar-contra-el-guardarrail-murieron-cuatro-personas-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "A casi dos años de confirmar su relación, el futbolista de Boca Juniors le pidió matrimonio a su novia delante de sus familiares; la escena quedó grabada y llen...<br><br><a href='https://www.lanacion.com.ar/espectaculos/lucas-blondel-le-pidio-casamiento-a-morena-beltran-en-un-yate-asi-fue-la-romantica-propuesta-nid06012026/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La Nación <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "El \"Abuelo\", el árbol argentino de 2600 años que sigue en pie",
+        "titulo": "Rusia ofreció una vez a Estados Unidos el control de Venezuela a cambio de vía libre en Ucrania",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>Tiene casi sesenta metros de altura, está prohibido tocarlo y para verlo primero hay que someterse a una desinfección. </li><li>Es patrimonio de la Huma...<br><br><a href='https://www.clarin.com/internacional/abuelo-arbol-argentino-2600-anos-sigue-pie_0_rEZAXcH199.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>La oferta de intercambio fue relatada en su momento en una declaración ante el Congreso por Fiona Hill, que se encargó de los asuntos rusos y europeos e...<br><br><a href='https://www.clarin.com/new-york-times-international-weekly/rusia-ofrecio-vez-estados-unidos-control-venezuela-cambio-via-libre-ucrania_0_iPQzsdzo22.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
         "mes": 1,
         "anio": 2026,
-        "titulo": "Subió a YouTube un video de 10 horas de una chimenea encendida y ya ganó un millón de dólares",
+        "titulo": "Trágico incendio en un geriátrico de Olavarría: dos muertos y 37 heridos",
         "categoria": "Noticia Nacional",
-        "descripcion": "<ul><li>Ya generó 160 millones de visualizaciones en menos de 10 años.</li><li>Ya obtuvo más de un millón de dólares en ingresos publicitarios.</li></ul><br><br><a href='https://www.clarin.com/internacional/subio-youtube-video-10-horas-chimenea-encendida-gano-millon-dolares_0_gyOEaNWhMI.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+        "descripcion": "<ul><li>El fuego comenzó durante la noche del lunes. Hay un bombero internado en terapia intensiva.</li></ul><br><br><a href='https://www.clarin.com/sociedad/tragico-incendio-geriatrico-olavarria-muertos-37-heridos_0_ENfgjXnAmG.html' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en Clarín <i class='fas fa-external-link-alt'></i></a>"
+    },
+    {
+        "dia": 6,
+        "mes": 1,
+        "anio": 2026,
+        "titulo": "Encontraron muerta a Jayne Trcka, la famosa culturista que interpretó a la señorita Mann en ‘Scary Movie’",
+        "categoria": "Noticia Nacional",
+        "descripcion": "Jayne Trcka fue hallada sin vida en su casa de San Diego; el forense confirmó el deceso y su hijo dijo a TMZ que murió el 12 de diciembre a los 62 años.<br><br><a href='https://la100.cienradios.com/espectaculos/encontraron-muerta-a-jayne-trcka-la-famosa-culturista-que-interpreto-a-la-senorita-mann-en-scary-movie/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 6,
@@ -86,14 +94,6 @@ const BASE_DE_DATOS = [
         "titulo": "El explosivo rating de MasterChef Celebrity en la primera gala de eliminación del año",
         "categoria": "Noticia Nacional",
         "descripcion": "MasterChef Celebrity tuvo una nueva gala de eliminación y el rating explotó: quién fue el eliminado.<br><br><a href='https://la100.cienradios.com/espectaculos/el-explosivo-rating-de-masterchef-celebrity-en-la-primera-gala-de-eliminacion-del-ano/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
-    },
-    {
-        "dia": 6,
-        "mes": 1,
-        "anio": 2026,
-        "titulo": "Horror en Merlo: una patota mató a golpes a un joven de 29 años a plena luz del día",
-        "categoria": "Noticia Nacional",
-        "descripcion": "En Merlo un grupo de personas mató a golpes a un joven luego de una discusión vecinal.<br><br><a href='https://la100.cienradios.com/sociedad/horror-en-merlo-una-patota-mato-a-golpes-a-un-joven-de-29-anos-a-plena-luz-del-dia/' target='_blank' style='color:#2563eb; font-weight:bold;'>Leer en La 100 <i class='fas fa-external-link-alt'></i></a>"
     },
     {
         "dia": 30,
